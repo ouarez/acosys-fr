@@ -437,26 +437,23 @@ jobs:
     location: Mississauga
     title: Agile Delivery Manager
 layout: careers
-title: Careers
+title: Carrières
 permalink: /careers
 description: >-
-  If you’re looking to cultivate your skills with a company that’s creative,
-  innovative, and ambitious; if you want to work in an environment where
-  performance makes all the difference, consider applying to work with us.
+  Prendre soin de nos gens signifie prendre soin de nos clients. En tant que
+  spécialiste en solutions d'affaires et gestion de talent, nous recherchons à
+  vous mettre en contact avec les opportunités que vous recherchez et vous
+  soutenir dans l’avancement de votre carrière.
 cover_image: /img/cover3.jpg
 ---
+**Nous sommes toujours à la recherche de nouveau talent**
 
-**We’re always looking for people to join our team.**
+Si vous voulez développer vos compétences au sein d'une compagnie créative et ambitieuse ou si vous cherchez à travailler dans un environnement qui valorise la performance, envoyez nous votre candidature.
 
-If you’re looking to cultivate your skills with a company that’s creative, innovative, and ambitious; if
-you want to work in an environment where performance makes all the difference, consider applying to
-work with us. We offer competitive salaries, incentives, and meaningful work to provide people with a
-stimulating environment in which our employees have ample opportunity to foster their personal growth, and that of our clients.
+Nous offrons des salaires compétitifs, du travail intéressant et un environnement stimulant qui favorise le développement personnel de nos employés et de nos clients.
 
-**Commitment : People first!**
+**Poursuivez vos objectifs de carrière **
 
-Taking care of our people means taking care of our clients. As specialists in business consulting and
-talent management we seek to connect you with the opportunities you’re looking for, and support you
-in taking your career to the next level.
+Prendre soin de nos gens signifie prendre soin de nos clients. En tant que spécialiste en solutions d'affaires et gestion de talent, nous cherchons à vous mettre en contact avec les opportunités que vous recherchez et vous soutenir dans l’avancement de votre carrière.
 
-Have a look at our list of current opportunities, and check back regularly for updates.
+Consultez la liste de nos offres d'emploi ci-dessous.
