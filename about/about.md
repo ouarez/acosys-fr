@@ -3,9 +3,10 @@ title: Notre compagnie
 layout: about
 permalink: /about
 description: >-
-  Acosys is an Indigenous consulting firm with different ideas. We have
-  expertise in business solutions, technology integration, and talent
-  management.
+  Acosys est une entreprise de consultation autochtone ayant une vision
+  stratégique et des idées constructives hors du commun. Nous avons une
+  expertise globale pour vos solutions d’affaires, l’intégration des
+  technologies ainsi que la gestion de talent. 
 cover_image: /img/cover.jpg
 about_images:
   - about_image: /img/camsc.jpg
