@@ -14,14 +14,14 @@ subjects:
 contact_info: |-
   **Montreal (Bureau chef)**
 
-  Suite 591, 100 Boulevard Alexis-Nihon\
+  Suite 591, 100 Boulevard Alexis-Nihon  
   Saint-Laurent, QC H4M 2P1
 
   <i class="fas fa-phone dark-gray mr2"></i>(514) 744-9433 ext. 118  
 
   **Heures d'ouverture:**
 
-  Lundi au vendredi\
+  Lundi au vendredi  
   de 9h à 17h (Heure de l'Est)
 map_lat: '45.496466'
 map_long: '-73.6772346'
