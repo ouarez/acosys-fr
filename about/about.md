@@ -1,5 +1,5 @@
 ---
-title: Our Company
+title: Notre compagnie
 layout: about
 permalink: /about
 description: >-
@@ -17,23 +17,20 @@ about_images:
   - about_image: /img/psab.jpg
     about_image_title: Procurement Strategy for Aboriginal Business (PSAB)
 ---
-## Providing Direction
+## Votre guide en affaires
 
-Acosys is an Indigenous consulting firm with different ideas. We have expertise in business solutions, technology integration, and talent management.
+Acosys est une entreprise de consultation autochtone ayant une vision stratégique et des idées constructives hors du commun. Nous avons une expertise globale pour vos solutions d’affaires, l’intégration des technologies ainsi que la gestion de talent. 
 
-We opened our doors in 2006, co-founded by David Acco and Julie Lepage. Their identities, their vision of social entrepreneurship, and their expertise in the fields of Information Technology and Human Resources made Acosys what it is.
+Nous sommes en affaires depuis 2006, fondé par David Acco et Julie Lepage. Leur identités, leur vision en tant qu’entrepreneur à conscience social ainsi que leur expertise en technologie de l’information et en ressources humaines ont fait d’Acosys ce qu’il est maintenant. 
 
-Since then, our history of efficient delivery and satisfied clients has given us a solid foundation, on which we’ve built a reputation for creative and progressive solutions catering to nearly every major industry.
+Depuis le tout début, nous avons fait nos preuves en livrant nos projets de façon efficace et nos clients satisfaits nous ont donné une fondation solide sur laquelle nous avons bâti notre réputation à offrir des solutions créatives et progressistes répondant à presque chaque secteur principal de l’industrie. 
 
-In 2011, Acosys was awarded the Small Business of the Year award by the Canadian Aboriginal and Minority Supplier Council for our strong numbers and new ideas. In 2012, Acosys was awarded a Business Excellence Award from the Toronto Board of Trade for our leadership and demonstrated success in Indigenous inclusion.
+En 2011, Acosys a reçu le prix récompense en tant que «Small Business of the Year» attribué par le Canadian Aboriginal and Minority Supplier Council pour notres rendement exceptionnel et nos idées innovatrices. 
 
-## Community Connections
+En 2012, Acosys a reçu le prix récompense «Business Excellence Award» du Toronto Board of Trade pour notre leadership et notre succès bien établi pour l’inclusion des autochtones.
 
-While we wish to be recognized on the strength of our expertise and
-consistent delivery, we are also proud to be an Indigenous company.
+## Relations avec la communauté 
 
-As a registered and certified supplier with the Procurement Strategy for
-Aboriginal Business (PSAB), the Canadian Aboriginal and Minority
-Supplier Council (CAMSC), and the Canadian Council for Aboriginal
-Business (CCAB), we can throw open the doors to a panoramic
-professional and Indigenous network.
+Bien que nous désirions être reconnus pour la force de notre expertise et nos résultats, nous sommes aussi fiers d’être une compagnie de propriété autochtone. Nous sommes le lien primaire habilitant les communautés, le secteur privé et les gouvernements à créer des partenariats profitables et indispensables.
+
+Cette expertise est complétée par notre programme de stagiaire autochtone (AIP) qui permet d’augmenter l’inclusion avec nos clients participants, en tant que fournisseur agréé de la Stratégie d'approvisionnement auprès des entreprises autochtones (SAEA) et certifié par la Canadian Aboriginal and Minority Supplier Council (CAMSC) comme fournisseur autochtone. Étant également membres du Conseil canadien des entreprises autochtones (CCAB), nous pouvons ouvrir des portes pour les réseaux corporatifs et pour les professionnels autochtones.
