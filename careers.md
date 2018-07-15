@@ -452,7 +452,7 @@ Si vous voulez développer vos compétences au sein d'une compagnie créative et
 
 Nous offrons des salaires compétitifs, du travail intéressant et un environnement stimulant qui favorise le développement personnel de nos employés et de nos clients.
 
-**Poursuivez vos objectifs de carrière **
+**Poursuivez vos objectifs de carrière**
 
 Prendre soin de nos gens signifie prendre soin de nos clients. En tant que spécialiste en solutions d'affaires et gestion de talent, nous cherchons à vous mettre en contact avec les opportunités que vous recherchez et vous soutenir dans l’avancement de votre carrière.
 
