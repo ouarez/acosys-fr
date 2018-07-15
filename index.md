@@ -53,6 +53,7 @@ intro_services:
   - icon: cog
     link: /services/integration-technologique
     text: >-
+      Vous avez besoin des meilleures infrastructures que vous pouvez avoir.
       Lorsque vous avez des délais de livraisons serrés, tout dépend de
       l’intégration de votre logiciel et de votre équipement répondant
       directement à vos besoins.
