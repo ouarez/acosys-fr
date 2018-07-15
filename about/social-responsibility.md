@@ -1,19 +1,32 @@
 ---
-title: Social Mission
+title: Mission sociale
 layout: page
 permalink: /about/social-responsibility
 description: >-
-  We’re a for-profit business, but we have a self-defined social mission
-  centered on Indigenous diversity and inclusion.
+  Acosys est une entreprise à but lucratif mais nous avons une mission sociale
+  auto définie centrée sur la diversité et l’inclusion des autochtones. 
 cover_image: /img/cover.jpg
 ---
-## Giving back to the community.
+## Redonner à la communauté
 
-We’re a for-profit business, but we have a self-defined social mission centered on Indigenous diversity and inclusion.
+Acosys est une entreprise à but lucratif mais nous avons une mission sociale auto définie centrée sur la diversité et l’inclusion des autochtones. 
 
-Our goal is to raise the visibility of Indigenous professionals in the private sector, by providing meaningful professional opportunities in education and employment. And we actively pursue this mission every day, in several ways:
+Acosys vise à augmenter la visibilité des professionnels autochtones dans le secteur privé en fournissant des opportunités d’emploi et d’éducation professionnelles significatives. 
 
-1. **Commitment to Indigenous Inclusion internally**. Commitment to Indigenous Inclusion internally. We maintain and exceed a self-imposed 33% Indigenous human resources component in our company and in project delivery.
-2. **Indigenous Talent Management services**. We have assisted a number of customers in developing a full-cycle HR recruitment and integration strategy targeting Indigenous professionals.
-3. **An Innovative Aboriginal Internship Program (AIP)**. We provide our interns with project roles and mentorship to build the skills and experience they need in becoming in-demand professionals. Thus far we've had 12 success stories and a 100 per cent success rate.
-4. **Giving back**. We have delivered seminars and workshops to Indigenous communities and organizations, as well as to corporate customers, free of charge. We place special focus on Indigenous economic development, capacity building, and workforce inclusion.
+De plus, nous poursuivons cette mission tous les jours de plusieurs façons:
+
+**Un engagement à l’inclusion autochtone à l’interne. **
+
+Nous maintenons et excédons, auto-imposé, 33% de nos ressources humaines autochtones dans notre compagnie et sur nos projets avec nos clients. Notre équipe est composée de plus de 70% de ressources autochtones. 
+
+**Service de gestion de talent autochtone.**
+
+Nous avons assisté plusieurs de nos clients à développer un cycle complet de recrutement RH et stratégie d’intégration visant les professionnels autochtones. 
+
+**Un programme pour stagiaires autochtones innovateur.**
+
+Nous offrons à nos stagiaires un rôle sur les projets et du mentorat pour bâtir leurs habilités et de l’expérience qu’ils ont besoin pour devenir des professionnels recherchés. Jusqu’à maintenant nous avons eu 12 histoires à succès et notre taux de réussite est à 100%.
+
+**Redonner.**
+
+Nous avons créé et donné des séminaires et ateliers aux communautés et aux organisations autochtones ainsi qu’à des clients corporatifs, sans frais. Notre focus est sur le développement économique, augmenter les capacités et l’inclusion de la main-d’œuvre autochtone.
