@@ -35,7 +35,7 @@ layout: default
 
   <div style="background-image:url('/img/internships.jpg');">
     <div class="shadow services w-100 flex flex-wrap tc ph4 pb4">
-      <h2 class="f2 w-100 tc mt5 white b">OUR SERVICES</h2>
+      <h2 class="f2 w-100 tc mt5 white b">NOS SERVICES</h2>
       {% for item in page.intro_services %}
       <div class="w-100 w-33-l mv3 ph3">
         <a href="{{item.link}}" class="white">
@@ -82,7 +82,7 @@ layout: default
               {{job.desc | markdownify}}
               <a href="{{item.link}}">
                 <button class="pv3 ph5 mt3 mb4 br3 ttu tracked f5 b white pointer bg-blue" type="button">
-                  Consult Job Details <i class="fas fa-angle-right f5 tr mh2"></i>
+                  Détails de l'offre <i class="fas fa-angle-right f5 tr mh2"></i>
                 </button>
               </a>
             </div>
@@ -90,7 +90,7 @@ layout: default
           {% endfor %}
         {% endfor %}
 
-      <a href="/careers" class="link white bg-blue mt3 dib ph4 pv3 ba br3">View all opportunities<i class="fas fa-arrow-right dib pl2 f6"></i></a>
+      <a href="/careers" class="link white bg-blue mt3 dib ph4 pv3 ba br3">Voir toutes les offres d'emploi<i class="fas fa-arrow-right dib pl2 f6"></i></a>
 
     </div>
   </div>

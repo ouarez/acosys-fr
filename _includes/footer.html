@@ -3,12 +3,12 @@
   <div class="container flex flex-wrap ph3">
 
     <div class="w-100 w-50-l white tl f5 pr5">
-      <h3 class="f3 mv3 b">Who we are</h3>
+      <h3 class="f3 mv3 b">Qui nous sommes</h3>
       {{site.data.settings.site_desc | markdownify}}
     </div>
 
     <div class="w-100 w-25-l white tl">
-      <h3 class="f3 mv3 b">Contact us</h3>
+      <h3 class="f3 mv3 b">Nous contacter</h3>
       <span class="f5 white">{{site.data.settings.site_title}}</span>
       <br/>
       {% if site.data.settings.site_address_1 %}
@@ -52,7 +52,7 @@
     </div>
 
     <div class="w-100 w-25-l white tl pl5">
-      <h3 class="f3 b mv3">Quick Links</h3>
+      <h3 class="f3 b mv3">Liens rapides</h3>
       {% for item in site.data.navigation.footer_nav %}
         <a href="{{item.url}}" class="link moon-gray b f5 db pb2">{{item.title}}</a>
       {% endfor %}
