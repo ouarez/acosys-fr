@@ -15,7 +15,7 @@ Acosys vise à augmenter la visibilité des professionnels autochtones dans le s
 
 De plus, nous poursuivons cette mission tous les jours de plusieurs façons:
 
-**Un engagement à l’inclusion autochtone à l’interne. **
+**Un engagement à l’inclusion autochtone à l’interne.**
 
 Nous maintenons et excédons, auto-imposé, 33% de nos ressources humaines autochtones dans notre compagnie et sur nos projets avec nos clients. Notre équipe est composée de plus de 70% de ressources autochtones. 
 
