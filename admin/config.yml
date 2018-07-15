@@ -1,0 +1,381 @@
+backend:
+
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+media_folder: "img"
+
+collections:
+
+  - name: "unique-pages"
+    label: "Unique Pages"
+    delete: false # Prevent users from deleting documents in this collection
+    files:
+      - name: "home"
+        file: "index.md"
+        label: "Edit Home Page"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Slogan 1", name: "cover_slogan_1", widget: "string"}
+          - {label: "Slogan 2", name: "cover_slogan_2", widget: "string"}
+          - {label: "Intro Title 1", name: "title_1", widget: "string"}
+          - {label: "Intro Text 1", name: "text_1", widget: "markdown"}
+          - {label: "Intro Link 1", name: "url_1", widget: "string"}
+          - {label: "Intro Link Text 1", name: "url_text_1", widget: "string"}
+          - {label: "Intro Title 2", name: "title_2", widget: "string"}
+          - {label: "Intro Text 2", name: "text_2", widget: "markdown"}
+          - {label: "Intro Link 2", name: "url_2", widget: "string"}
+          - {label: "Intro Link Text 2", name: "url_text_2", widget: "string"}
+          - label: Services
+            name: intro_services
+            widget: list
+            required: false
+            fields:
+              - {label: Icon, name: icon, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Link, name: link, widget: string}
+          - label: "Jobs"
+            name: "jobs"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: "Number of jobs to show (1-10)", name: "amount", widget: "number", default: 3, valueType: "int", min: 1, max:10}
+          - label: "Internship box"
+            name: "box"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Image, name: image, widget: image}
+              - {label: Slogan, name: slogan, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Link, name: link, widget: string}
+              - {label: Link Text, name: link_text, widget: string}
+
+      - name: "careers"
+        file: "careers.md"
+        label: "Edit Careers Page"
+        fields:
+          - label: Jobs
+            name: jobs
+            widget: list
+            required: false
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Date, name: date, widget: date}
+              - {label: Location, name: location, widget: string}
+              - {label: Link, name: link, widget: string}
+              - {label: Description, name: desc, widget: markdown}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "careers"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/careers" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - name: "contact"
+        file: "contact.md"
+        label: "Edit Contact Page"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "contact"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/contact" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+          - label: Email Subject
+            name: subjects
+            widget: list
+            required: false
+            fields:
+              - {label: Subject, name: subject, widget: string}
+          - {label: "Contact Info", name: "contact_info", widget: "markdown"}
+          - {label: "Latitude (Map)", name: "map_lat", widget: "string"}
+          - {label: "Longitude (Map)", name: "map_long", widget: "string"}
+          - {label: "Zoom (Map)", name: "map_zoom", widget: "string"}
+
+  - name: "about-pages"
+    label: "About Pages"
+    delete: false # Prevent users from deleting documents in this collection
+    files:
+      - name: "about"
+        file: "about/about.md"
+        label: "Edit About Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+          - label: About Images
+            name: about_images
+            widget: list
+            required: false
+            fields:
+              - {label: Image, name: about_image, widget: image}
+              - {label: Title, name: about_image_title, widget: string}
+      - name: "leadership"
+        file: "about/leadership.md"
+        label: "Edit Leadership Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "leadership"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about/leadership" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - label: Portraits
+            name: portrait
+            widget: list
+            required: false
+            fields:
+              - {label: Image, name: image, widget: image}
+              - {label: Name, name: name, widget: string}
+              - {label: Description, name: content, widget: markdown}
+      - name: "social-responsibility"
+        file: "about/social-responsibility.md"
+        label: "Edit Social Responsibility Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/about/social-responsibility" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+
+  - name: "service-pages"
+    label: "Service Pages"
+    delete: false # Prevent users from deleting documents in this collection
+    files:
+      - name: "services"
+        file: "services/services.md"
+        label: "Edit Services Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Text Block", name: "text_1", widget: "markdown"}
+          - label: service
+            name: service
+            widget: list
+            required: false
+            fields:
+              - {label: Icon, name: icon, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Link, name: link, widget: string}
+              - {label: Description, name: desc, widget: text}
+          - {label: "Text Block", name: "text_2", widget: "markdown"}
+      - name: "talent-management"
+        file: "services/talent-management.md"
+        label: "Edit Talent Management Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services/talent-management" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - name: "business-solutions"
+        file: "services/business-solutions.md"
+        label: "Edit Business Solutions Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services/business-solutions" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - name: "technology-integration"
+        file: "services/technology-integration.md"
+        label: "Edit Technology Integration Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services/technology-integration" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - name: "federal-government-clients"
+        file: "services/federal-government-clients.md"
+        label: "Edit Government Clients Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services/federal-government-clients" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+
+  - name: "business-pages"
+    label: "Business Pages"
+    delete: false # Prevent users from deleting documents in this collection
+    files:
+      - name: "business"
+        file: "business/business.md"
+        label: "Edit Business Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/business" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - name: "press-room"
+        file: "business/press-room.md"
+        label: "Edit Press Room Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "press-room"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/business/press-room" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+          - label: Articles
+            name: articles
+            widget: list
+            required: false
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Date, name: date, widget: date}
+              - {label: Link Title, name: link_title, widget: string}
+              - {label: Link URL, name: link_url, widget: string}
+              - {label: Description, name: desc, widget: markdown}
+      - name: "portfolio"
+        file: "business/portfolio.md"
+        label: "Edit Portfolio Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "portfolio"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/business/portfolio" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+          - label: Portfolio
+            name: portfolio
+            widget: list
+            required: false
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Date, name: date, widget: date, required: false}
+              - {label: Client, name: client, widget: string}
+              - {label: Description, name: desc, widget: markdown}
+
+  - name: "internship-pages"
+    label: "Internship Pages"
+    delete: false # Prevent users from deleting documents in this collection
+    files:
+      - name: "candidates"
+        file: "internships/candidates.md"
+        label: "Edit Candidates Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - name: "internships"
+        file: "internships/internships.md"
+        label: "Edit Internships Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - name: "partner"
+        file: "internships/partner.md"
+        label: "Edit Partner Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - name: "social-impact"
+        file: "internships/social-impact.md"
+        label: "Edit Social Impact Page"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/services" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Cover Image", name: "cover_image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    folder: "pages"
+    label: "Custom Page"
+    create: true
+    fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+        - {label: "Permalink", name: "permalink", widget" "string" }
+        - {label: "Description", name: "description", widget: "string"}
+        - {label: "Cover Image", name: "cover_image", widget: "image"}
+        - {label: "Content", name: "body", widget: "markdown"}
+
+  - name: "settings"
+    label: "Website Configuration"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+     preview: false
+    files:
+       - name: "general"
+         label: "General"
+         file: "_data/settings.yml"
+         description: "General Settings"
+         fields:
+           - {label: "Website Title", name: "site_title", widget: "string"}
+           - {label: "Website Logo", name: "site_logo", widget: "image"}
+           - {label: "Contact Email", name: "site_email", widget: "string", required: false}
+           - {label: "Contact Phone Number", name: "site_tel", widget: "string", required: false}
+           - {label: "Contact Fax Number", name: "site_fax", widget: "string", required: false}
+           - {label: "Address (Line 1)", name: "site_address_1", widget: "string", required: false}
+           - {label: "Address (Line 2)", name: "site_address_2", widget: "string", required: false}
+           - {label: "Footer Logo", name: "footer_logo", widget: "image", required: false}
+           - {label: "Facebook", name: "url_facebook", widget: "string", required: false}
+           - {label: "Instagram", name: "url_instagram", widget: "string", required: false}
+           - {label: "Twitter", name: "url_twitter", widget: "string", required: false}
+           - {label: "Linked In", name: "url_linkedin", widget: "string", required: false}
+
+       - name: "navigation"
+         label: "Navigation"
+         file: "_data/navigation.yml"
+         description: "Navigation"
+         fields:
+          - label: "Main Navigation"
+            name: main_nav
+            widget: list
+            required: false
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: URL, name: url, widget: string}
+              - label: "Sub Navigation"
+                name: subnav
+                widget: list
+                required: false
+                fields:
+                  - {label: Title, name: title, widget: string}
+                  - {label: URL, name: url, widget: string}
+          - label: "Footer Quick Links"
+            name: footer_nav
+            widget: list
+            required: false
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: URL, name: url, widget: string}
+          - label: "Bottom Navigation"
+            name: bottom_nav
+            widget: list
+            required: false
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: URL, name: url, widget: string}

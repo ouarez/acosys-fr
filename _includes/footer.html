@@ -1,0 +1,76 @@
+<footer class="bg-navy tc pv4">
+
+  <div class="container flex flex-wrap ph3">
+
+    <div class="w-100 w-50-l white tl f5 pr5">
+      <h3 class="f3 mv3 b">Who we are</h3>
+      {{site.data.settings.site_desc | markdownify}}
+    </div>
+
+    <div class="w-100 w-25-l white tl">
+      <h3 class="f3 mv3 b">Contact us</h3>
+      <span class="f5 white">{{site.data.settings.site_title}}</span>
+      <br/>
+      {% if site.data.settings.site_address_1 %}
+        <span class="f5 white">{{site.data.settings.site_address_1}}</span>
+      {% endif %}
+      <br/>
+      {% if site.data.settings.site_address_2 %}
+        <span class="f5 white">{{site.data.settings.site_address_2}}</span>
+      {% endif %}
+      <br/><br/>
+      {% if site.data.settings.site_tel %}
+        <i class="fas fa-phone white mr2 f5"></i>
+        <span class="f5 white">{{site.data.settings.site_tel}}</span>
+      {% endif %}
+      <br/>
+      {% if site.data.settings.site_fax %}
+        <i class="fas fa-fax white mr2 f5"></i>
+        <span class="f5 white">{{site.data.settings.site_fax}}</span>
+      {% endif %}
+      <br/><br/>
+      {% if site.data.settings.url_facebook %}
+        <a class="link mr2" href="{{site.data.settings.url_facebook}}">
+        <i class="fab fa-facebook white f3"></i>
+        </a>
+      {% endif %}
+      {% if site.data.settings.url_linkedin %}
+        <a class="link mr2" href="{{site.data.settings.url_linkedin}}">
+        <i class="fab fa-linkedin white f3"></i>
+        </a>
+      {% endif %}
+      {% if site.data.settings.url_twitter %}
+        <a class="link mr2" href="{{site.data.settings.url_twitter}}">
+        <i class="fab fa-twitter white f3"></i>
+        </a>
+      {% endif %}
+      {% if site.data.settings.url_instagram %}
+        <a class="link mr2" href="{{site.data.settings.url_instagram}}">
+        <i class="fab fa-instagram white f3"></i>
+        </a>
+      {% endif %}
+    </div>
+
+    <div class="w-100 w-25-l white tl pl5">
+      <h3 class="f3 b mv3">Quick Links</h3>
+      {% for item in site.data.navigation.footer_nav %}
+        <a href="{{item.url}}" class="link moon-gray b f5 db pb2">{{item.title}}</a>
+      {% endfor %}
+    </div>
+
+  </div> <!-- end container -->
+
+</footer>
+
+<div class="copyright pv3">
+  <div class="container flex flex-wrap ph3">
+
+    <div class="w-100 tl">
+      <span class="f5 moon-gray mr3">&copy; 2018 {{site.data.settings.site_title}}</span>
+      {% for item in site.data.navigation.bottom_nav %}
+        <a href="{{item.url}}" class="link moon-gray b f6 mr3">{{item.title}}</a>
+      {% endfor %}
+    </div>
+
+  </div> <!-- end container -->
+</div>

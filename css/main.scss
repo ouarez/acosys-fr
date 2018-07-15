@@ -1,0 +1,248 @@
+---
+---
+
+// variables
+
+$primary-font: 'Montserrat', sans-serif;
+$header-font: 'Montserrat';
+$sans: 'Lato', 'Open Sans', sans-serif;
+$serif: 'Merriweather', serif;
+$primary: #eee;
+$contrast:#111;
+$font-weight:100;
+
+$red: #b70707;
+$blue: #559abc;
+$green: #69b225;
+
+body {
+    font-family: $primary-font;
+    color: $contrast;
+    background-color:#fff;
+    font-weight:$font-weight;
+    font-size:18px;
+}
+
+.container {
+  max-width:1200px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.bg-red {background-color: $red;}
+.bg-blue {background-color: $blue;}
+.bg-green {background-color: $green;}
+.red {color:$red;}
+.blue {color:$blue;}
+.green {color:$green;}
+
+.link {
+  text-decoration:none;
+  &:hover {text-decoration: underline;}
+}
+
+// typography
+
+   h1,h2 {
+     margin:1.2em 0;
+     font-family:$primary-font;
+     font-weight:$font-weight;
+   }
+
+   h3,h4,h5,h6 {
+     margin:1em 0;
+     font-family:$primary-font;
+     font-weight:$font-weight;
+   }
+
+   h1 {font-size:2.3rem;}
+   h2 {font-size:1.8rem;}
+   h3 {font-size:1.6rem;}
+   h4 {font-size:1.25rem;}
+   h5 {font-size:1rem;}
+   h6 {font-size:0.75rem;}
+
+   p,li,label,input,select,span,button {
+     font-family: $sans;
+     font-weight:$font-weight;
+     line-height:1.5;
+   }
+
+   b,strong { // make sure its bold
+     font-weight:bold;
+   }
+
+   button {
+     border:none;
+   }
+
+// header
+
+.cover {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  overflow:hidden;
+}
+
+
+.shadow {
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)
+    );
+}
+
+.vh-85 {
+    height: 85vh;
+}
+
+header {
+  width:100%;
+  font-family: $header-font;
+
+  .logo {
+    width:200px;
+  }
+
+  .header {
+    background-color:#fff;
+    .nav-button {
+      cursor:pointer;
+      img {
+        width:36px;
+        height:36px;
+      }
+    }
+  }
+
+  nav.main-nav {
+    a {
+      text-decoration: none;
+      color:#333;
+      font-size:14px;
+      text-transform: uppercase;
+      font-weight:bold;
+      &.active {text-decoration:underline;}
+    }
+
+    .dropdown-nav {
+      position:relative;
+      display:inline-block;
+      padding:1em 0;
+      &:hover ul {visibility:visible;}
+      ul {
+        visibility:hidden;
+        position:absolute;
+        top:50px;
+        text-align:left;
+        list-style:none;
+        margin:0;
+        padding:0;
+        background-color:$blue;
+        li {
+          padding:1.5em;
+          width:200px;
+          background-color:$blue;
+          &:hover {
+            background-color: darken($blue,10);
+            text-decoration:underline;
+            color:#fff;
+          }
+          &.active {
+            background-color: darken($blue,20);
+          }
+          a {
+            color:#fff;
+          }
+        }
+      }
+    }
+  }
+
+  nav.mobile-nav {
+    top:90px;
+    z-index: 1;
+    background-color:$blue;
+    a {
+      color:#fff;
+      font-size:18px;
+      text-decoration: none;
+      margin:0px auto;
+      text-transform: uppercase;
+      border-bottom:solid lighten($blue,10) 1px;
+    }
+    a:hover {text-decoration:underline;}
+  }
+
+
+} // end header
+
+// main body
+
+.hero {
+  background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) );
+  button {
+    border:none;
+  }
+  h1,h2,h3 { line-height:1.5;}
+}
+
+.banner {
+  img {height:200px;}
+}
+
+.min-height {
+  min-height:200px;
+}
+
+.services {
+  a {text-decoration:none;}
+  div {
+    div.icon {
+      width:140px;
+      i {
+        font-size:60px;
+        width:80px;
+      }
+    }
+  }
+}
+
+textarea {
+  height:428px;
+}
+
+  #map {height:300px;}
+
+footer {
+
+  .social {
+    a {text-decoration: none;}
+    img {
+      width:32px;
+      height:32px;
+    }
+  }
+
+  .contact {
+    a {text-decoration: none;}
+    img {
+      width:32px;
+      height:32px;
+      top:8px;
+    }
+    span {
+      font-size:24px;
+    }
+  }
+
+} // end footer
+
+div.copyright {
+  background-color:#002862;
+}
