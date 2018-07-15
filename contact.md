@@ -2,31 +2,33 @@
 layout: contact
 title: Contact
 permalink: /contact
-description: You can reach us here through our contact form.
+description: >-
+  Vos questions et commentaires sont importants. Vous pouvez nous joindre par
+  téléphone ou en utilisant le formulaire suivant.
 cover_image: /img/cover3.jpg
 subjects:
-  - subject: Internships
-  - subject: Careers
-  - subject: General Inquiry
-  - subject: Other
+  - subject: Stages
+  - subject: Emplois
+  - subject: Question ou commentaire
+  - subject: Autre
 contact_info: |-
-  **Montreal (Head Office)**
+  **Montreal (Bureau chef)**
 
-  Suite 591, 100 Boulevard Alexis-Nihon  
+  Suite 591, 100 Boulevard Alexis-Nihon\
   Saint-Laurent, QC H4M 2P1
 
   <i class="fas fa-phone dark-gray mr2"></i>(514) 744-9433 ext. 118  
 
-  **Business hours:**
+  **Heures d'ouverture:**
 
-  Monday to Friday  
-  from 9:00 a.m. to 5:00 p.m. (Eastern Time)
+  Lundi au vendredi\
+  de 9h à 17h (Heure de l'Est)
 map_lat: '45.496466'
 map_long: '-73.6772346'
 map_zoom: '13'
 ---
-### Get in touch with us
+### Nous joindre
 
-You can reach out to us using the contact form below.
+Vos questions et commentaires sont importants. Vous pouvez nous joindre par téléphone ou en utilisant le formulaire suivant.
 
-Whether you require more information about our Internships or our Career Opportunities, or just want to drop us a line, please use the contact form below and we'll get back to you as soon as possible.
+Que ce soit au sujet de nos stages de formation ou de nos offres d'emploi, ou simplement pour nous poser une question, n'hésitez pas à nous contacter. Nous vous répondrons dans les plus brefs délais.
