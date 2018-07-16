@@ -18,7 +18,7 @@ brand:
 
 Guider nos clients en leur offrant des services de consultation professionnels, dans les délais et axés sur le qualificatif pour leurs solutions d’affaires, l’intégration de technologie et la gestion des talents tout en augmentant la visibilité des professionnels et des entreprises autochtones. 
 
-* technologie de l'information et systèmes d'information
-* gestion des ressources humaines 
-* politiques internes de gouvernance autochtone 
-* stages en entreprise
+* Technologie de l'information et systèmes d'information
+* Gestion des ressources humaines 
+* Politiques internes de gouvernance autochtone 
+* Stages en entreprise
