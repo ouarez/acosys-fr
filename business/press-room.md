@@ -7,23 +7,25 @@ cover_image: /img/cover3.jpg
 articles:
   - date: '2013-02-06'
     desc: >-
-      David Acco stands before a projector screen showing off a new software
-      system he hopes will answer critics of First Nations financial management.
+      David Acco se tient devant un écran de projection montrant un nouveau
+      système de logiciel qu’il espère répondra aux critiques de la gestion
+      financière des Premières Nations. 
 
 
-      After spending the majority of his adult life around software and IT,
-      Acco's latest project has been to develop an accounting program intended
-      specifically for Indigenous communities.
+      Après avoir passé la majorité de sa vie professionnelle à travailler dans
+      l’informatique et sur des logiciels, le dernier projet d’Acco a été de
+      développer un logiciel de comptabilité conçu spécifiquement pour les
+      communautés autochtones. Le résultat d’un tel projet est un système de
+      gestion économique Autochtone. 
 
 
-      The result is the Native Economic Management System. It was created by
-      Acco, co-founder of the native consulting firm Acosys Consulting Services
-      Inc., and the economic-development commission in the Mohawk community of
-      Kahnawake.
+      Ce système a été crée par Acco, co-fondateur de l’agence de consultant
+      autochtone Services conseils Acosys Inc. et la Commission de développement
+      économique de la communauté mohawk de Kahnawake.
     link_title: Native Economic Management System (NEMS)
     link_url: >-
       https://www.ctvnews.ca/canada/aboriginal-community-tests-out-new-dollar-tracking-program-1.1307412
-    title: Kahnawake tests out new dollar-tracking program
+    title: "Essai\_à Kahnawake d’un nouveau programme de gestion des finances."
   - date: '2013-01-10'
     desc: >-
       For aboriginals searching for work off the reserve, it can be a rocky,
@@ -39,9 +41,6 @@ articles:
     link_title: Breaking New Ground for Aboriginals in the Private Sector
     link_url: >-
       https://www.pressreader.com/canada/montreal-gazette/20130110/281552288208738
-    title: Acosys Breaks New Ground – Montreal Gazette Article
+    title: Acosys Breaks New Ground – Montreal Gazette Article (anglais seulement)
 ---
-
-Here you’ll find the latest news about Acosys and what we find interesting.
-
-You can also keep up with us by joining our [LinkedIn]({{site.data.settings.url_linkedin}}) and [Facebook]({{site.data.settings.url_facebook}}) groups.
+Voici les dernières nouvelles à notre sujet, ainsi que des articles pertinents sur notre entreprise.
