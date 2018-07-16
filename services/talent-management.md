@@ -16,7 +16,7 @@ Nos services incluent le recrutement, la rétention et des avis conseils sur les
 
 Cette attention au détail provient de notre formation en tant que conseiller en ressources humaines agréé et notre compréhension de la réalité et des objectifs de chacun de nos clients.
 
-**Nos services incluent:**
+Nos services incluent:
 
 ### Gestion de talent autochtone
 
