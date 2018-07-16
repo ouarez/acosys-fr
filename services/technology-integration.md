@@ -8,7 +8,8 @@ description: >-
   hardware that responds directly to your team’s needs.
 cover_image: /img/cover2.jpg
 ---
-**Vous avez besoin des meilleures infrastructures que vous pouvez avoir. **
+**Vous avez besoin des meilleures infrastructures que vous pouvez avoir.**
+
 Vous le savez et vos compétiteurs aussi. Lorsque vous avez des délais de livraisons serrés, tout dépend de l’intégration de votre logiciel et de votre équipement répondant directement à vos besoins. 
 
 Nos services d’intégration de technologie incluent:
