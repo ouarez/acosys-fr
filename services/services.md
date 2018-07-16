@@ -5,67 +5,81 @@ permalink: /services/
 description: '  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet iaculis elit. Nam semper ut arcu non placerat. Praesent nibh massa varius.'
 cover_image: /img/cover2.jpg
 text_1: >-
-  ## Consulting with a Difference
+  Nos clients sont diversifiés et ont des défis distincts avec lesquels nous
+  pouvons les assister de différentes manières. La direction est le fil doré qui
+  se répète dans tous nos projets et c’est pour cette raison que nos clients
+  nous sollicitent. 
 
-  Our clients are all different. They have diverse needs, which we address with
-  custom-made solutions. Providing direction is the golden thread that runs
-  through our operations, and it’s why our clients come to us.
 
-  ## Government Clients
+  ### Clients
 
-  We are [qualified suppliers](/services/federal-government-clients) within the federal Tasks and Solutions Professional
-  Services (TSPS) procurement vehicle, holding both a Supply Arrangement and a
-  Standing Offer. In addition, we are qualified both as a standard supplier and
-  as an Aboriginal supplier through the Procurement Strategy for Aboriginal
-  Businesses (PSAB), which opens additional avenues of procurement for our
-  government clients.
 
-  ## Service streams
+  Nous sommes un [fournisseur qualifié](/services/clients-gouvernementaux) avec
+  les méthodes d’achat pour des services professionnels avec le Gouvernement
+  fédéral.
 
-  **We offer three streams of service:**
+
+  Sous la méthode SPTS, nous détenons une Offre à commande et Arrangements en
+  matière d’approvisionnement. Nous sommes un fournisseur préqualifié en tant
+  que fournisseur standard et en tant que fournisseur autochtone en règle sous
+  la Stratégie d’approvisionnement auprès des entreprises autochtones (SAEA).
+
+
+  Ceci offre des possibilités additionnelles à nos clients du Gouvernement
+  fédéral qui désirent acheter nos services professionnels. 
+
+
+  ### Services
+
+
+  **Nous offrons trois types de services:**
 service:
   - desc: >-
-      Effective management demands continuous improvement, especially in today's
-      business world, where change is constant. You may need unique expertise:
-      that’s what we’re here for.
+      La gestion efficace requiert une amélioration continue spécialement
+      aujourd’hui dans le monde des d’affaires où le changement est la norme.
+      Que vous ayez besoin de ressources additionnelles, d’une expertise unique
+      ou d’une opinion impartiale, nous pouvons vous aider.
     icon: lightbulb
-    link: /services/business-solutions
-    title: Business Solutions
+    link: /services/solutions-affaires
+    title: Solutions d’affaires
   - desc: >-
-      You need the best infrastructure you can get. When it comes to a tight
-      delivery, so much can depend on a seamless, up-to-date combination of
-      software and hardware that responds directly to your needs.
+      Lorsque vous avez des délais de livraisons serrés, tout dépend de
+      l’intégration de votre logiciel et d'un équipement répondant directement à
+      vos besoins.
     icon: cog
-    link: /services/technology-integration
-    title: Technology Integration
+    link: /services/integration-technologique
+    title: 'Intégration de TI '
   - desc: >-
-      We help our clients from recruitment, to retention, to policy advice. We
-      also help both their business units and recruiters engage resources, and
-      help the candidates ready themselves for the client’s business and
-      operations.
+      Nos services incluent le recrutement, la rétention et des avis conseils
+      sur les politiques internes. Nous aidons les divisions et les recruteurs à
+      embaucher les ressources et avec l’accueil et l’intégration des candidats.
     icon: handshake
-    link: /services/talent-management
-    title: Talent Management
+    link: /services/gestion-de-talent
+    title: Gestion de talent
 text_2: >-
-  We offer end-to-end business solutions that assist our clients in
-  consolidating their vision, planning their next steps, customizing their
-  infrastructure, integrating their business processes, and then measuring the
-  results. And we can manage the entire process for you.
+  **Des idées innovatrices hors du commun. **
 
 
+  Nous offrons des solutions d’affaires du début à la fin qui aide nos clients à
+  consolider leur vision, à planifier leurs prochaines étapes, à personnaliser
+  leur infrastructure, intégrer leurs processus d’affaires pour ensuite mesurer
+  les résultats. Nous pouvons gérer pour vous le processus en entier.
 
-  Providing direction in nearly every major industry, including:
+
+  Votre guide en affaires dans presque toutes les industries principales,
+  incluant:
 
 
-  * Utilities
+  * Les services publics 
 
-  * Oil and Gas
+  * Le pétrole et les gaz 
 
-  * Financial Services
+  * Services financiers 
 
-  * Government
+  * Gouvernement 
 
-  * Healthcare and Pharmaceutical
+  * Services de santé et pharmaceutique 
 
-  * Information and Communications Technology
+  * Technologie et télécommunications
 ---
+
