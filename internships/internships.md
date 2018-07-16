@@ -3,25 +3,19 @@ title: Internships
 layout: page
 permalink: /stages
 description: >-
-  Training, mentoring and employment. Acosys is committed to providing these things to all Indigenous people who have a desire to work in the field of business consulting.
+  Training, mentoring and employment. Acosys is committed to providing these
+  things to all Indigenous people who have a desire to work in the field of
+  business consulting.
 cover_image: /img/cover3.jpg
 ---
-## Training, mentoring and employment
+### Formation, mentorat et employabilité
 
-Acosys is committed to providing these things to all Indigenous people who have a desire to work in the
-field of business consulting. Our Aboriginal Internship Program (AIP) helps make that happen. These
-internships provide candidates with the skills and experience necessary to become in-demand professionals.
+Acosys est dévoué à l’avancement des talents des professionnels autochtones dans les secteurs de la technologie de l’information et des ressources humaines. Nos stages comportent de la formation individuelle, du mentorat et de l’expérience pratique pour équiper nos candidats autochtones des connaissances nécessaires pour devenir des professionnels hautement recherchés en TI et en RH.
 
-## Professional Roles
+### Rôles professionnels
 
-Our program takes qualified candidates and places them in roles such as Business Analyst, Human
-Resources Specialist, Project Manager, and others, giving them the experience they need to take control
-of their careers. Candidates include recent graduates just beginning their careers, as well as more
-experienced public sector workers looking to make a transition.
+Notre programme sélectionne des candidats qualifiés et les assignent sur des projets tels que analyste d’affaires, spécialiste ressources humaines, gestionnaire de projet, etc. Les candidats gagnent leur expérience qu’ils ont besoin pour prendre contrôle de leur carrière. Des exemples de candidats incluent des gradués récents qui commencent dans leur carrière ou des travailleurs du secteur public avec expérience qui recherchent une transition.
 
-## Permanent Placement
+## Placement permanent
 
-After a thorough selection and interviewing process, the interns work for our clients on a contract-to-
-hire basis for a period of 52 weeks, matched with senior consultants as coaches and monitors. They
-may also perform coursework that leads to industry recognized certification. At the end of this period
-the client typically extend the contract or hire the resource permanently.
+Après un processus de sélection rigoureux et des entrevues, les stagiaires travaillent pour nos clients sur une base contractuelle suivie d’une embauche en tant qu’employé permanent pour une période de 52 semaines jumelé avec nos consultants séniors comme mentor et coach. Les candidats peuvent aussi participer à un cours spécialisé reconnu par l’industrie. Typiquement, à la fin de la période, le client soit prolonge le contrat ou embauche le candidat de façon permanente.
