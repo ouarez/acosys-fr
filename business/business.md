@@ -1,33 +1,20 @@
 ---
-title: Business Insights
+title: Modèle d'affaires
 layout: page
 permalink: /affaires/
 description: >-
-  We know our Internships work. Twelve success stories to date, and counting.
+  Nous jetons des ponts entre le secteur privé, les communautés autochtones et
+  le gouvernement.
 cover_image: /img/cover3.jpg
 ---
+**Nous jetons des ponts entre le secteur privé, les communautés autochtones et le gouvernement.**
 
-**Building bridges between private industry, Indigenous communities, and government.**
+Nous agissons à titre d'agents de liaison préférés afin de permettre aux intervenants de la collectivité, des entreprises et le gouvernement à créer des relations vitales et rentables. Ce rôle est complété par notre [programme de stagiaires autochtones](/stages), qui regroupe des organismes gouvernementaux, des partenaires du secteur privé, des professionnels autochtones et les institutions d'enseignement, qui agissent ensemble comme un incubateur pour le talent autochtone.
 
-We act as the preferred liaison in enabling community, corporate, and government stakeholders to
-create vital and profitable relationships. This role is complemented by our [Aboriginal Internship
-Program](/internships), which brings together government organizations, private sector partners, Indigenous
-professionals, and even educational institutions, to act together as an incubator for Indigenous talent.
+Comme beaucoup d'entreprises, nous nous concentrons sur l'offre de l'expertise dans notre domaine, un service qui respecte ou dépassent les attentes des clients, et les liens de partenariats d'affaires durables. Contrairement à beaucoup, nous avons également une mission d’intégration qui est intégrée à notre modèle d'affaires.
 
-Like many companies, we concentrate on offering expertise in our field, delivery that meets or exceeds
-client expectations, and building lasting business partnerships. Unlike many, we also have had an
-inclusion mission integrated into our business model.
+**Inclusion et intégration des professionnels autochtones**
 
-**Supply Chain Inclusion**
+L'inclusion des travailleurs autochtones et le renforcement des capacités sont intégrés à notre modèle d’affaires. Nous maintenons toujours un minimum de 33 % de ressources humaines autochtones dans la réalisation des projets. Cela comprend non seulement les adjoints administratifs, mais aussi les analystes d'affaires certifiés, les recruteurs, les professionnels des ressources humaines, les gestionnaires de projets, les programmeurs, les experts dans leur domaine respectif, et ainsi de suite. C'est une règle que nous nous imposons, qui reflète notre engagement à développer les talents des autochtones professionnels, et qui se traduira dans le renforcement des capacités des collectivités, ainsi qu’une plus grande responsabilisation des peuples autochtones.
 
-Our business model centers on Indigenous Inclusion and Capacity Building. We always maintain, at
-minimum, a 33% Indigenous human resources component in **project delivery**. In other words, not only
-administrative assistants, but certified business analysts, recruiters, human resource professionals,
-project managers, programmers, subject matter experts, and so on. This is a self-imposed rule, aimed at
-developing Indigenous talent in the professional world, then translated into community enhancement,
-self-sufficiency, and greater empowerment for Canadian Indigenous peoples.
-
-Today, approximately 70% of Acosys’s workforce is Indigenous, including full-time and part-time
-employees. This **shatters** the standards for Indigenous business set by all governing and certifying
-organizations. Our clients often leverage our commitment to invigorate their own inclusion and
-corporate social responsibility programs and meet their reporting requirements.
+Aujourd'hui, environ 70 % des effectifs d’Acosys sont autochtones, y compris le personnel à temps plein et à temps partiel. Cela est plus élevé que les normes pour les entreprises autochtones fixées par les gouvernements et les organismes de certification. Nos clients s’appuient souvent sur notre engagement pour dynamiser leur propre programme d’inclusion, de responsabilité sociale et pour répondre à leurs exigences de déclaration.
