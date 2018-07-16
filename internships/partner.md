@@ -1,28 +1,23 @@
 ---
-title: Become a Partner
+title: Devenir un partenaire
 layout: page
 permalink: /stages/partenariat
-description: >-
-  Become a partner in the Acosys Aboriginal Internship Program (AIP).
+description: Être un leader dans le développement professionnel des autochtones.
 cover_image: /img/cover3.jpg
 ---
 
-**Be a leader in Indigenous professional development.**
+**Être un leader dans le développement professionnel des autochtones.**
 
-Become a partner in the Acosys Aboriginal Internship Program (AIP).
+Devenir un partenaire du Programme de stagiaires autochtones.
 
-A subsidized Indigenous resource provides a low-risk path to greater workforce inclusiveness. This
-ignites your Indigenous network growth, sets off an upward spiral of inclusion, and helps you meet
-reporting goals.
+Une ressource autochtone subventionnée peut offrir une façon avec un minimum de risque pour encourager l'inclusion d’une plus grande main-d'œuvre. Il peut favoriser la croissance de votre réseau autochtone, déclencher une spirale ascendante d'inclusion, et vous aide à atteindre vos objectifs de rapports.
 
-There are several additional reasons to consider taking on an Indigenous intern:
+Il existe plusieurs raisons supplémentaires pour envisager l’embauche d’un stagiaire autochtone:
 
-- Education: Our education partners provide our interns with discounted coursework in business
+- Éducation: Nos partenaires en éducation offrent à nos stagiaires des cours à prix réduit en l’analyse d'affaires, la gestion de projet et la gestion des ressources humaines.
 analysis, project management, and human resources.
-- No hiring fees at the end of the internship if the Intern is moved from our payroll to yours.
-- Acosys provides mentoring support to both the Intern and the Client Partner.
-- We take responsibility for the quality of our Interns' work.
+- Aucun frais d'embauche à la fin du stage, si le stagiaire est intégré dans votre équipe.
+- Acosys fournit un soutien de mentorat pour le stagiaire et le partenaire du client.
+- Nous sommes responsables de la qualité du travail de nos stagiaires.
 
-The commitment needed from the client partner is a project that gives strong industry experience, a
-stimulating work environment in which an Intern might sharpen his or her skills, and a desire to help
-others succeed.
+Les exigences pour devenir un client partenaire sont un projet qui donne de l'expérience solide de l'industrie, un environnement de travail stimulant dans lequel un stagiaire peut accroître ses compétences, et un désir d'aider les autres à réussir.
