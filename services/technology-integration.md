@@ -8,24 +8,23 @@ description: >-
   hardware that responds directly to your team’s needs.
 cover_image: /img/cover2.jpg
 ---
-**Get the best infrastructure available.**
-When facing a time-sensitive delivery, so much can depend on a seamless, up-to-date combination of software and hardware that responds directly to your team’s needs.
+**Vous avez besoin des meilleures infrastructures que vous pouvez avoir. **
+Vous le savez et vos compétiteurs aussi. Lorsque vous avez des délais de livraisons serrés, tout dépend de l’intégration de votre logiciel et de votre équipement répondant directement à vos besoins. 
 
-Our technology integration services include:
+Nos services d’intégration de technologie incluent:
 
-### Technology Assessment and Planning
+### Planification et évaluation de la technologie
 
-Your processes get more sophisticated every day, and so do your technology requirements. Acosys
-takes a structured approach to assessing your current and future systems to respond to your needs.
+À chaque jour vos processus sont de plus en plus sophistiqués et par le fait même vos besoins technologiques. Acosys entreprend une approche structurée pour évaluer et répondre à vos besoins technologiques présents et futurs.
 
-### System Introductions and Updates
+### Introduction de nouveaux systèmes et mise à jour
 
-Seamless introductions and updates keep your business running on schedule. We can help you define requirements, prioritize, and validate improvements.
+Introduction intégrée et mise à jour de vos systèmes afin de permettre à votre entreprise d’opérer à temps. Nous pouvons vous aider à définir vos besoins, les prioriser et valider les améliorations.
 
-### Software Development, Customization, and Support
+### Développement de logiciel, personnalisation et support
 
-Whether it’s as simple as a database or as complex as a browser-based client management system, we have the experience and expertise to get you what you need, when you need it. From development of custom-tailored solutions, to support, to deployment.
+Que ce soit une simple base de données ou un logiciel de gestion client, nous avons l’expérience et l’expertise pour répondre à vos besoins, du développement de solutions personnalisées au support et déploiement.
 
-### System and UAT Testing
+### Contrôle d’acceptation client et système
 
-Our analysts work with your teams to develop test strategies, scenarios, and scripts that ensure your system is meeting its objectives.
+Nos analystes travaillent avec des développeurs de systèmes et de processus, testent les scénarios, et les scripts pour assurer que le système et ses processus rencontrent les objectifs établis dans le document de besoins.
