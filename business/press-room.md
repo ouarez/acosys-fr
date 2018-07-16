@@ -1,8 +1,10 @@
 ---
-title: Press Room
+title: Articles de presse
 layout: press-room
 permalink: /affaires/articles-de-presse
-description: Here you’ll find the latest news about Acosys and what we find interesting.
+description: >-
+  Voici les dernières nouvelles à notre sujet, ainsi que des articles pertinents
+  sur notre entreprise.
 cover_image: /img/cover3.jpg
 articles:
   - date: '2013-02-06'
