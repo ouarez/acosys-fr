@@ -1,63 +1,63 @@
 main_nav:
   - subnav:
-      - title: Our Company
-        url: /about
+      - title: Notre compagnie
+        url: /notre-compagnie
       - title: Leadership
         url: /about/leadership
-      - title: Social Responsibility
-        url: /about/social-responsibility
-      - title: Our Mission
+      - title: Responsabilité sociale
+        url: /about/responsabilite-sociale
+      - title: Notre mission
         url: /about/mission
-    title: About
-    url: /about
+    title: À propos
+    url: /a-propos
   - subnav:
-      - title: Our Services
+      - title: Nos Services
         url: /services
-      - title: Business Solutions
-        url: /services/business-solutions
-      - title: Technology Integration
-        url: /services/technology-integration
-      - title: Talent Management
-        url: /services/talent-management
-      - title: Federal Government Clients
-        url: /services/federal-government-clients
+      - title: Solutions d'affaires
+        url: /services/solutions-affaires
+      - title: INTÉGRATION DE TI
+        url: /services/integration-technologique
+      - title: Gestion de talent
+        url: /services/gestion-de-talent
+      - title: Clients du gouvernement fédéral
+        url: /services/clients-gouvernement-federal
     title: Services
     url: /services
   - subnav:
-      - title: Internships
-        url: /internships
-      - title: Become a Partner
-        url: /internships/become-a-partner
-      - title: Social Impact
-        url: /internships/social-impact
-      - title: Candidates
-        url: /internships/candidates
-    title: Internships
-    url: /internships
+      - title: Stages en entreprise
+        url: /stages
+      - title: Devenir un partenaire
+        url: /stages/partenariat
+      - title: Impact social
+        url: /internships/impact-social
+      - title: Candidats
+        url: /internships/candidats
+    title: Stages en entreprise
+    url: /stages
   - subnav:
-      - title: Business Insights
-        url: /business/
-      - title: Press Room
-        url: /business/press-room
+      - title: Modèle d'affaires
+        url: /affaires/
+      - title: Articles de presse
+        url: /affaires/articles-de-presse
       - title: Portfolio
-        url: /business/portfolio
-    title: Business
-    url: /business/
-  - title: Careers
-    url: /careers
+        url: /affaires/portfolio
+    title: Affaires
+    url: /affaires/
+  - title: Emplois
+    url: /emplois
   - title: Contact
     url: /contact
 footer_nav:
-  - title: About
-    url: /about
+  - title: À propos
+    url: /a-propos
   - title: Services
     url: /services
-  - title: Internships
-    url: /internships
-  - title: Business
-    url: /business
-  - title: Careers
-    url: /careers
+  - title: Stages
+    url: /stages
+  - title: Affaires
+    url: /affaires
+  - title: Emplois
+    url: /emplois
   - title: Contact
     url: /contact
 bottom_nav:
