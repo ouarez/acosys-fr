@@ -1,11 +1,11 @@
 ---
-title: Technology Integration
+title: Intégration des TI
 layout: page
 permalink: /services/integration-de-ti
 description: >-
-  Get the best infrastructure available. When facing a time-sensitive delivery,
-  so much can depend on a seamless, up-to-date combination of software and
-  hardware that responds directly to your team’s needs.
+  Lorsque vous avez des délais de livraisons serrés, tout dépend de
+  l’intégration de votre logiciel et de votre équipement répondant directement à
+  vos besoins. 
 cover_image: /img/cover2.jpg
 ---
 **Vous avez besoin des meilleures infrastructures que vous pouvez avoir.**
