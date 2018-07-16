@@ -3,44 +3,46 @@ title: Portfolio
 layout: portfolio
 permalink: /affaires/portfolio
 description: >-
-  Proud of our project work. Acosys can provide both deep and broad experience.
-  Browse through the tabs below for a few examples of our past deliveries, and
-  see what we mean.
+  Acosys fourni des services conseils appropriés et répondant à nos clients.
+  Pour connaître notre expérience projet, naviguer en cliquant sur les onglets
+  ci-dessous.
 cover_image: /img/cover3.jpg
 portfolio:
-  - client: Tewatohnhi'saktha (Kahnawake Economic Development Commission)
+  - client: Tewatohnhi'saktha (Commission de développement économique de Kahnawake)
     desc: >-
-      The Kahnawake Economic Development Commission (KEDC)'s Native Economic
-      Management Software (NEMS) is a proprietary case management software
-      designed to help economic development organizations keep track of clients,
-      projects, and loans, and act more effectively for the community.
+      Le logiciel de gestion économique autochtone breveté de la CDEK est conçu
+      pour la gestion des dossiers spécifiquement afin les organisations de
+      développement économique qui suit l’évolution des clients, projets, prêts
+      et assure ainsi une gestion plus efficace. À l’origine, ce logiciel a été
+      développé par une autre compagnie. Acosys a été mandaté pour compléter le
+      développement afin que ce dernier soit opérationnel. Nous avons dû faire
+      du reverse engineering et rebâtir le logiciel.
 
 
-      Our duties included:
+      Nos responsabilités incluaient:
 
 
-      • Analyzing and updating business and system requirements throughout the
-      lifecycle  
+      * Analyser et mettre à jour les besoins d’affaires et de système durant la
+      durée du cycle
 
-      • Testing, troubleshooting, and debugging the previously developed
-      software  
+      * Test, résolution de problème et débogage du logiciel à son stade
+      original
 
-      • Developing and customizing the software according to business
-      requirements  
+      * Développer et personnaliser le logiciel selon les besoins d’affaires
 
-      • Performing Quality Assurance Testing in preparation for deployment  
+      * Accomplir les tests d’assurance qualité en préparation du déploiement
 
-      • Training three separate business units  
+      * Formation de trois groupes d’affaires
 
-      • Deploying the NEMS software in Tewatohnhi'saktha's business
-      environment  
+      * Déploiement du logiciel dans l’environnement de travail
+      Tewatohnhi’saktha
 
 
-      **Technology:** EJB 3 (Enterprise Java Beans 3), Struts framework,
-      Hibernate for persistence, Apache Tiles layout and presentation framework.
-      The application runs in JBoss on CentOS 5 (RHEL compatible), uses MySQL as
-      its data store and employs LDAP to authenticate network users.
-    title: Native Economic Management Software
+      **Technologie:** EJB 3 (Enterprise Java Beans 3), Struts, Hibernate,
+      Apache tiles. L’application fonctionne en JBoss sur CentOS (RHEL
+      compatible), utilise MySQL pour sauvegarder l’information et emploie LDAP
+      pour reconnaître les usagers.
+    title: Logiciel de gestion économique autochtone
   - client: Canada Post
     date: Invalid date
     desc: >-
@@ -69,120 +71,121 @@ portfolio:
   - client: Environics Research Group
     date: Invalid date
     desc: >-
-      Acosys administered, supported, and helped interpret the results of the
-      Urban Aboriginal Peoples' Survey (UAPS) in two Canadian urban centres:
-      Thunder Bay and Montreal. We introduced an innovative approach of using
-      Indigenous peoples to administer the survey. Our responsibilities during this
-      effort included:
+      Acosys avait la responsabilité d’administrer et de supporter
+      l’interprétation des résultats du sondage pour deux centres urbains soient
+      Thunder Bay et Montréal. Ce sondage a eu lieu dans 11 grands centres
+      urbains canadiens où on retrouve des autochtones en grand nombre. Pour les
+      deux villes, tous les administrateurs du sondage embauchés par Acosys
+      étaient des autochtones – une première canadienne: des autochtones sondés
+      par des autochtones!
 
 
-      • Gathering of quantitative and qualitative survey results in a
-      face-to-face interview format
+      Nos responsabilités incluaient:
 
 
-      • Coding of results into a database provided by the client
+      * Collecte de données quantitatives et qualitatives des résultats du
+      sondage en personne
+
+      * Codification des résultats dans une base de données fournie par le
+      client
+
+      * Interprétation des réponses à développement d’une perspective autochtone
+
+      * Analyse et compte rendu des résultats aux parties intéressées
+
+      * Recommandations afin d’améliorer l’interprétation des résultats en
+      fournissant des nuances et le contexte culturels
 
 
-      • Interpretation of open-ended responses from an Indigenous perspective•
-      Analysis and report on results to stakeholders
-
-
-      • Providing recommendations for how the Survey could improve its ability
-      to capture cultural context and nuance
-
-
-      Acosys delivered early in both cities.
-    title: Urban Aboriginal Peoples' Survey
+      Même si Acosys était la dernière entreprise à s’être fait octroyer par
+      l’Institut de recherche Environics, nous avons livreé les résultats avant
+      la date butoir.
+    title: Sondage sur les autochtones urbains
   - client: Tewatohnhi’saktha
     date: Invalid date
     desc: >-
-      Acosys was hired to examine the possibility of bringing the NEMS solution
-      to market and turning it into a source of revenue for KEDC. Our
-      responsibilities during this effort included:
+      Acosys avait la responsabilité d’évaluer la possibilité d’introduire le
+      NEMS au marché afin qu’il devienne une source de revenu pour le client.
 
 
-      • Identification and investigation of various target markets, including
-      Indigenous and mainstream organizations
+      Nos responsabilités incluaient:
 
 
-      • Development of an outreach script and development of an online survey
+      * L’identification et l’investigation de différents marchés visés,
+      incluant les organisations autochtones et non-autochtones
 
+      * Développement d’un script et d’un sondage sur Internet
 
-      • Complete quantitative and qualitative analysis and report of survey
-      results to project stakeholders
+      * Compléter une analyse quantitative et qualitative et donner un compte
+      rendu sur les résultats aux parties intéressées du projet
 
+      * Collecte d’information concernant les compétiteurs et les tendances du
+      marché
 
-      • Gathering of intelligence on competitors and market trends
-
-
-      • Go/No-Go recommendation, product costing recommendation, revenue
-      forecast
-    title: Market Feasibility Study
-  - client: 'McGill University, Faculty of Engineering'
+      * Recommandations allée de l’avant ou non, coûts du produit et prévisions
+      du revenu
+    title: Étude de faisabilité de marché
+  - client: 'Université McGill, faculté d’ingénierie'
     date: '2018-06-07'
     desc: >-
-      Acosys was hired to conduct an IT Services Review for McGill’s Faculty of
-      Engineering, specifically to determine client satisfaction levels among
-      various demographics (students, staff, and professors) and provide
-      recommendations for improvement. Our responsibilities during this effort
-      included:
+      Acosys avait la responsabilité de faire la revue des services TI pour la
+      faculté d’ingénierie de McGill afin de déterminer la satisfaction des
+      différents clients (étudiants, personnel de soutien et enseignants) et de
+      recommander les améliorations.
 
 
-      • Conducting individual interviews with IT services and management
-      representatives
+      Nos responsabilités incluaient:
 
 
-      • Spearheading internet-based surveys of over 3000 students, staff
-      members, and professors
+      * Interviewer en personne les représentants des services TI et les
+      gestionnaires
+
+      * Mener des sondages en ligne pour 3000 étudiants et plus, personnel de
+      soutien et enseignants
+
+      * Compléter une analyse statistique et qualitative des résultats du
+      sondage, compte rendu et présentations des résultats aux parties
+      intéressées
+
+      * Faciliter des groupes utilisateurs pour recevoir des remarques
+
+      * Entrevues entre les facultés pour comparer les services TI à McGill
 
 
-      • Performance of statistical and qualitative analyses of survey results,
-      report and presentation of findings to stakeholders
-
-
-      • Conducting follow-up focus groups with targeted users for more granular
-      feedback
-
-
-      • Inter-faculty interviews to benchmark McGill-wide IT service levels
-
-
-      All of these inputs were used to create a Recommendations document which
-      presented a strategic plan for improving the Faculty of Engineering’s IT
-      service delivery.
-    title: IT Services Review for McGill’s Faculty of Engineering
-  - client: Indian and Northern Affairs Canada (INAC)
+      Cette participation a été utilisée pour créer un document de
+      recommandations contenant un plan stratégique pour améliorer la qualité du
+      service de la Faculté d’ingénierie.
+    title: Revue des services TI pour la faculté d’ingénierie de l'Université McGill
+  - client: Affaires indiennes et du Nord Canada
     date: Invalid date
     desc: >-
-      Acosys has worked for the Department of Indian Affairs and Northern
-      Development (DIAND) in three outreach efforts, of similar scope and size,
-      for the Federal Government’s Procurement Strategy for Aboriginal
-      Businesses; the most recent is cited here. The purpose of PSAB is to build
-      capacity among Canadian Indigenous peoples by providing set-asides in Federal
-      contracts. Our responsibilities during these efforts included:
+      Pour trois années consécutives, Acosys a mené une campagne de
+      sensibilisation pour la SAEA. La SAEA a pour but d’aider les entreprises
+      autochtones à conclure un plus grand nombre de marchés avec tous les
+      ministères et organismes du gouvernement fédéral et de leur donner accès
+      au processus d’approvisionnement dans son ensemble.
 
 
+      Nos responsabilités incluaient:
 
 
-      • Researching and building of a list of eligible businesses, including
-      contact information
+      * Recherche et mettre en place une liste d’entreprises éligibles au
+      programme avec leurs coordonnées d’affaires
 
+      * Créer une base de données reflétant les questions du sondage afin que
+      l’on puisse sauvegarder de façon sécuritaire les résultats et que l’on
+      puisse faire une recherche rapide
 
-      • Creation of a database mirroring survey questions for safe and
-      searchable storage of outreach results
+      * Interviewer les entreprises par téléphone en performant plus que 2000
+      appels
 
+      * Informer les entreprises des avantages et opportunités d’affaires
+      offertes par SAEA
 
-      • Interviewing these businesses by telephone, performing over 2,000 calls
-      all told
-
-
-      • Informing them of the benefits and opportunities afforded by PSAB
-
-
-      • If already registered, inquiring about levels of satisfaction with the
-      PSAB process
-    title: Procurement Strategy for Aboriginal Business (PSAB)
+      * Si déjà enregistré avec la SAEA, se renseigner à propos de leurs niveau
+      de satisfaction avec le processus de la SAEA
+    title: Stratégie d’approvisionnement auprès des entreprises autochtones (SAEA)
 ---
-**Proud of our project work.**
+**Fiers de nos projets.**
 
-Acosys can provide both deep and broad experience. Browse through the tabs below for a few examples of our past deliveries, and see what we mean.
+Acosys fourni des services conseils appropriés et répondant à nos clients. Pour connaître notre expérience projet, naviguer en cliquant sur les onglets ci-dessous.
