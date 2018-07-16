@@ -1,23 +1,22 @@
 ---
-title: ' Federal Government Clients'
+title: Clients du gouvernement fédéral
 layout: page
 permalink: /services/clients-gouvernement-federal
 description: >-
-  We are qualified suppliers within the federal Tasks and Solutions Professional
-  Services (TSPS) procurement vehicle, holding both a Supply Arrangement and a
-  Standing Offer.
+  Sous la méthode SPTS, nous détenons une Offre à commande et Arrangements en
+  matière d’approvisionnement. Nous sommes un fournisseur préqualifié en tant
+  que fournisseur standard et en tant que fournisseur autochtone en règle sous
+  la Stratégie d’approvisionnement auprès des entreprises autochtones (SAEA).
 cover_image: /img/cover2.jpg
 ---
 ## Qualifications
 
-We are qualified suppliers with the following federal government vehicles:
+Nous sommes un fournisseur qualifié avec les méthodes d’achat pour des services professionnels avec le Gouvernement fédéral suivantes:
 
 - Tasks and Solutions Professional Services (TSPS)
 - ProServices
 - Task-Based Informatics Professional Services (TBIPS)
 
-In the TSPS procurement vehicle, we hold both a Supply Arrangement and a Standing Offer. We are qualified both as a standard supplier and as an Aboriginal supplier through the Procurement Strategy for Aboriginal Businesses (PSAB), which opens additional avenues of procurement for our government clients.
+Sous la méthode SPTS, nous détenons une Offre à commande et Arrangements en matière d’approvisionnement. Nous sommes un fournisseur préqualifié en tant que fournisseur standard et en tant que fournisseur autochtone en règle sous la Stratégie d’approvisionnement auprès des entreprises autochtones (SAEA).
 
-## Further Information
-
-Should you require immediate information on contracting through our federal government vehicles, please contact us at (514) 744-9433 ext. 112.
+Ceci offre des possibilités additionnelles à nos clients du Gouvernement fédéral qui désirent acheter nos services professionnels. Si vous avez besoin d'information toute de suite, s'il vous plait contactez-nous au (514) 744-9433 ext. 112.
