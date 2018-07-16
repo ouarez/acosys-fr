@@ -1,44 +1,39 @@
 ---
-title: Talent Management
+title: Gestion de talent
 layout: page
 permalink: /services/gestion-de-talent
-description: 'We assist our clients from recruitment, to retention, to policy advice. We also assist both their business units and recruiters in engaging resources, and readying the candidates themselves for the client’s
-business and operations.'
+description: >-
+  Nos services incluent le recrutement, la rétention et des avis conseils sur
+  les politiques internes. La valeur de nos services se reflète par notre
+  approche intégrale des intervenants dans le processus de l’embauche soit les
+  partenaires d’affaires, les recruteurs ainsi que la préparation des candidats
+  pour l’entreprise, la culture corporative et les opérations de nos clients.
 cover_image: /img/cover2.jpg
 ---
-**Help your team grow.**
-We assist our clients from recruitment, to retention, to policy advice. We also assist both their business
-units and recruiters in engaging resources, and readying the candidates themselves for the client’s
-business and operations. This attention to detail stems from our formal training as Certified Human
-Resources Professionals, our experience of what works and what doesn’t, and the knowledge that each
-of our customers has its own "on the ground" reality.
+**Faites grandir votre équipe.**
 
-**Our services include:**
+Nos services incluent le recrutement, la rétention et des avis conseils sur les politiques internes. La valeur de nos services se reflète par notre approche intégrale des intervenants dans le processus de l’embauche soit les partenaires d’affaires, les recruteurs ainsi que la préparation des candidats pour l’entreprise, la culture corporative et les opérations de nos clients.
 
-### Indigenous Talent Management
+Cette attention au détail provient de notre formation en tant que conseiller en ressources humaines agréé et notre compréhension de la réalité et des objectifs de chacun de nos clients.
 
-Attracting Indigenous talent requires unique strategies, and even once recruited, your Indigenous
-resources have unique needs in the workplace. Whether you’re an Indigenous or non-Indigenous
-organization, we can help you manage your talent more effectively. We have assisted a number of
-customers in developing a full-cycle HR recruitment and integration strategy targeting Indigenous
-professionals.
+**Nos services incluent:**
 
-### Recruitment and Screening
+### Gestion de talent autochtone
 
-Our talent management team has been training in a rigorous methodology that ensures our talent
-responds fully and directly to your requirements, within your timelines.
+La réalité est que nos ressources autochtones ont des besoins uniques en milieu de travail et les attirer requiert des stratégies uniques. Que vous soyez ou non une entreprise autochtone ou non-autochtone, Acosys peut gérer vos talents plus efficacement et augmenter votre taux de rétention. Nous avons plusieurs expériences positives avec des grandes entreprises où nous avons développé des stratégies de recrutement et de rétention de talent visant spécifiquement les professionnels autochtones.
 
-### Training
-From developing, organizing, delivering, and evaluating, to cross-industry benchmarking. Acosys has
-created and delivered live workshops and online courses in Human Resources Management, Critical
-Thinking for Decision Makers, and others.
+### Recrutement et sélection
 
-### Policy Development
+Notre équipe de gestion de talent répond à vos besoins en ressources humaines selon vos délais.
 
-Make sure your policies and workforce comply with the latest provincial and federal legislation. We
-can help you with Harassment Policy, Contractor Policy, Employee Guidelines/Integration, and more.
+### Formation
+
+Nous offrons des services tels que le développement, la coordination de la formation en passant par la présentation, l’évaluation et la comparaison (benchmarking).
+
+### Relations avec les employés
+
+Assurez-vous que vos politiques de personnel se conforment à la législation provinciale et fédérale. Nous pouvons vous aider avec vos politiques comme celle sur le harcèlement, l’embauche des contractuels, des lignes directrices et l’intégration des employés et plus encore.
 
 ### Employee Relations
 
-Morale affects productivity. We offer a suite of services, including exit and satisfaction interviews,
-employee and management coaching, and issue resolution.
+Le moral de l’équipe affecte la productivité. Nous offrons une gamme de services, incluant les entrevues de départ et de satisfaction, coaching pour les gestionnaires et la résolution de conflit.
