@@ -1,7 +1,7 @@
 ---
 title: Solutions d'affaires
 layout: page
-permalink: /services/business-solutions
+permalink: /services/solutions-affaires
 description: >-
   La gestion efficace requiert une amélioration continue spécialement
   aujourd’hui dans le monde des d’affaires où le changement est la norme. Aucun
@@ -10,7 +10,7 @@ description: >-
 cover_image: /img/cover2.jpg
 ---
 **Réaliser vos projets.**
-La gestion efficace requiert une amélioration continue spécialement aujourd’hui dans le monde des d’affaires où le changement est la norme. Aucun gestionnaire n’est une île. Que vous ayez besoin de ressources additionnelles, d’une expertise unique ou d’une opinion impartiale, nous pouvons vous aider. Acosys peut développer et gérer de façon efficace les leviers d’affaires clés afin d’atteindre vos objectifs et croître votre entreprise. 
+La gestion efficace requiert une amélioration continue spécialement aujourd’hui dans le monde des d’affaires où le changement est la norme. Aucun gestionnaire n’est une île. Que vous ayez besoin de ressources additionnelles, d’une expertise unique ou d’une opinion impartiale, nous pouvons vous aider. Acosys peut développer et gérer de façon efficace les leviers d’affaires clés afin d’atteindre vos objectifs et croître votre entreprise.
 
 **Nos services:**
 
