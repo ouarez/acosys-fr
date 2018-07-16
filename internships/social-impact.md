@@ -1,7 +1,7 @@
 ---
 title: Social Impact
 layout: page
-permalink: /internships/social-impact
+permalink: /stages/impact-social
 description: 'We know our Internships work. Twelve success stories to date, and counting.'
 cover_image: /img/cover3.jpg
 ---

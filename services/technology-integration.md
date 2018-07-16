@@ -1,7 +1,7 @@
 ---
 title: Technology Integration
 layout: page
-permalink: /services/technology-integration
+permalink: /services/integration-de-ti
 description: >-
   Get the best infrastructure available. When facing a time-sensitive delivery,
   so much can depend on a seamless, up-to-date combination of software and

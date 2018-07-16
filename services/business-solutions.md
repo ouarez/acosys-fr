@@ -1,7 +1,7 @@
 ---
 title: Business Solutions
 layout: page
-permalink: /services/business-solutions
+permalink: /services/solutions-affaires
 description: 'Effective management demands continuous improvement, especially in today’s business world, where
 change is constant. You may need unique expertise, and an impartial opinion: that’s what we’re here for.'
 cover_image: /img/cover2.jpg

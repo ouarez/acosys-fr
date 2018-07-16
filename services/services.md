@@ -8,7 +8,7 @@ text_1: >-
   Nos clients sont diversifiés et ont des défis distincts avec lesquels nous
   pouvons les assister de différentes manières. La direction est le fil doré qui
   se répète dans tous nos projets et c’est pour cette raison que nos clients
-  nous sollicitent. 
+  nous sollicitent.
 
 
   ### Clients
@@ -26,7 +26,7 @@ text_1: >-
 
 
   Ceci offre des possibilités additionnelles à nos clients du Gouvernement
-  fédéral qui désirent acheter nos services professionnels. 
+  fédéral qui désirent acheter nos services professionnels.
 
 
   ### Services
@@ -47,7 +47,7 @@ service:
       l’intégration de votre logiciel et d'un équipement répondant directement à
       vos besoins.
     icon: cog
-    link: /services/integration-technologique
+    link: /services/integration-de-ti
     title: 'Intégration de TI '
   - desc: >-
       Nos services incluent le recrutement, la rétention et des avis conseils
@@ -70,16 +70,15 @@ text_2: >-
   incluant:
 
 
-  * Les services publics 
+  * Les services publics
 
-  * Le pétrole et les gaz 
+  * Le pétrole et les gaz
 
-  * Services financiers 
+  * Services financiers
 
-  * Gouvernement 
+  * Gouvernement
 
-  * Services de santé et pharmaceutique 
+  * Services de santé et pharmaceutique
 
   * Technologie et télécommunications
 ---
-

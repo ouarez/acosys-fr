@@ -1,7 +1,7 @@
 ---
 title: Talent Management
 layout: page
-permalink: /services/talent-management
+permalink: /services/gestion-de-talent
 description: 'We assist our clients from recruitment, to retention, to policy advice. We also assist both their business units and recruiters in engaging resources, and readying the candidates themselves for the client’s
 business and operations.'
 cover_image: /img/cover2.jpg

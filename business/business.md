@@ -1,7 +1,7 @@
 ---
 title: Business Insights
 layout: page
-permalink: /business/
+permalink: /affaires/
 description: >-
   We know our Internships work. Twelve success stories to date, and counting.
 cover_image: /img/cover3.jpg

@@ -2,7 +2,7 @@
 layout: home
 title: >-
   Acosys - entreprise de consultation autochtone - solutions d’affaires,
-  intégration des technologies, gestion de talent. 
+  intégration des technologies, gestion de talent.
 description: >-
   Acosys est une entreprise de consultation autochtone ayant une vision
   stratégique et des idées constructives hors du commun. Nous facilitons les
@@ -20,7 +20,7 @@ text_1: >-
   Depuis le tout début, nous avons fait nos preuves en livrant nos projets de
   façon efficace et nos clients satisfaits nous ont donné une fondation solide
   sur laquelle nous avons bâti notre réputation à offrir des solutions créatives
-  et progressistes répondant à presque chaque secteur principal de l’industrie. 
+  et progressistes répondant à presque chaque secteur principal de l’industrie.
 
 
   Bien que nous désirions être reconnus pour la force de notre expertise et nos
@@ -51,7 +51,7 @@ intro_services:
       ou d’une opinion impartiale, nous pouvons vous aider.
     title: SOLUTIONS D’AFFAIRES
   - icon: cog
-    link: /services/integration-technologique
+    link: /services/integration-de-ti
     text: >-
       Vous avez besoin des meilleures infrastructures que vous pouvez avoir.
       Lorsque vous avez des délais de livraisons serrés, tout dépend de
@@ -82,4 +82,3 @@ box:
     recherchés en TI et en RH.
   title: STAGIAIRES
 ---
-

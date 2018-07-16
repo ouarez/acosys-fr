@@ -1,13 +1,13 @@
 main_nav:
   - subnav:
       - title: Notre compagnie
-        url: /notre-compagnie
+        url: /a-propos/
       - title: Leadership
-        url: /about/leadership
+        url: /a-propos/leadership
       - title: Responsabilité sociale
-        url: /about/responsabilite-sociale
+        url: /a-propos/responsabilite-sociale
       - title: Notre mission
-        url: /about/mission
+        url: /a-propos/mission
     title: À propos
     url: /a-propos
   - subnav:
@@ -16,7 +16,7 @@ main_nav:
       - title: Solutions d'affaires
         url: /services/solutions-affaires
       - title: INTÉGRATION DE TI
-        url: /services/integration-technologique
+        url: /services/integration-de-ti
       - title: Gestion de talent
         url: /services/gestion-de-talent
       - title: Clients du gouvernement fédéral
@@ -29,9 +29,9 @@ main_nav:
       - title: Devenir un partenaire
         url: /stages/partenariat
       - title: Impact social
-        url: /internships/impact-social
+        url: /stages/impact-social
       - title: Candidats
-        url: /internships/candidats
+        url: /stages/candidats
     title: Stages en entreprise
     url: /stages
   - subnav:

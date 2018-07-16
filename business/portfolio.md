@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: portfolio
-permalink: /business/portfolio
+permalink: /affaires/portfolio
 description: >-
   Proud of our project work. Acosys can provide both deep and broad experience.
   Browse through the tabs below for a few examples of our past deliveries, and

@@ -1,13 +1,13 @@
 ---
 title: Notre Mission
 layout: mission
-permalink: /about/mission
+permalink: /a-propos/mission
 description: >-
   Guider nos clients en leur offrant des services de consultation
   professionnels, dans les délais et axés sur le qualificatif pour leurs
   solutions d’affaires, l’intégration de technologie et la gestion des talents
   tout en augmentant la visibilité des professionnels et des entreprises
-  autochtones. 
+  autochtones.
 cover_image: /img/cover.jpg
 brand:
   image: /img/acosys-brand.png
@@ -22,9 +22,9 @@ brand:
 ---
 ### Notre mission
 
-Guider nos clients en leur offrant des services de consultation professionnels, dans les délais et axés sur le qualificatif pour leurs solutions d’affaires, l’intégration de technologie et la gestion des talents tout en augmentant la visibilité des professionnels et des entreprises autochtones. 
+Guider nos clients en leur offrant des services de consultation professionnels, dans les délais et axés sur le qualificatif pour leurs solutions d’affaires, l’intégration de technologie et la gestion des talents tout en augmentant la visibilité des professionnels et des entreprises autochtones.
 
 * Technologie de l'information et systèmes d'information
-* Gestion des ressources humaines 
-* Politiques internes de gouvernance autochtone 
+* Gestion des ressources humaines
+* Politiques internes de gouvernance autochtone
 * Stages en entreprise

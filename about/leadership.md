@@ -1,7 +1,7 @@
 ---
 title: Leadership
 layout: leadership
-permalink: /about/leadership
+permalink: /a-propos/leadership
 description: >-
   David Acco, qui est de descendance Cri, détient un MBA internationale de
   l’Université d’Ottawa et a complété un certificat de deuxième cycle en analyse
@@ -15,7 +15,7 @@ portrait:
       de l’Université d’Ottawa et a complété un certificat de deuxième cycle en
       analyse d’affaires de la Schulich School of Business de l’Université York.
       De plus, M. Acco a également diplôme de deuxième cycle en commerce
-      électronique de l’Université McGill. 
+      électronique de l’Université McGill.
 
 
       M. Acco a une solide expérience en direction d’équipe ainsi qu’en travail
@@ -27,7 +27,7 @@ portrait:
 
       Ces expériences ont permises à M. Acco de développer des stratégies
       détaillées pour faire face à une grande variété de défis du monde des
-      affaires. 
+      affaires.
     image: /img/david.jpg
     name: David Acco
   - content: >-
@@ -53,4 +53,3 @@ portrait:
     image: /img/julie.jpg
     name: Julie Lepage
 ---
-

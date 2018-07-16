@@ -1,7 +1,7 @@
 ---
 title: Internships
 layout: page
-permalink: /internships
+permalink: /stages
 description: >-
   Training, mentoring and employment. Acosys is committed to providing these things to all Indigenous people who have a desire to work in the field of business consulting.
 cover_image: /img/cover3.jpg

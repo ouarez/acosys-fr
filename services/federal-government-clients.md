@@ -1,7 +1,7 @@
 ---
 title: ' Federal Government Clients'
 layout: page
-permalink: /services/federal-government-clients
+permalink: /services/clients-gouvernement-federal
 description: >-
   We are qualified suppliers within the federal Tasks and Solutions Professional
   Services (TSPS) procurement vehicle, holding both a Supply Arrangement and a

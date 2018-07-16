@@ -1,7 +1,7 @@
 ---
 title: Press Room
 layout: press-room
-permalink: /business/press-room
+permalink: /affaires/articles-de-presse
 description: Here you’ll find the latest news about Acosys and what we find interesting.
 cover_image: /img/cover3.jpg
 articles:

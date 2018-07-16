@@ -1,7 +1,7 @@
 ---
 title: Become a Partner
 layout: page
-permalink: /internships/become-a-partner
+permalink: /stages/partenariat
 description: >-
   Become a partner in the Acosys Aboriginal Internship Program (AIP).
 cover_image: /img/cover3.jpg

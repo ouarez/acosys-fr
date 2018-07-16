@@ -30,7 +30,7 @@ jobs:
       software, and network infrastructure and enterprise services in order to
       keep the organization running.
 
-       
+
 
       Our client seeks to hire a Network/VOIP Specialist who will be reporting
       to the Sr. Manager of Production Operations. As a key member of the
@@ -131,7 +131,7 @@ jobs:
   - date: '2018-06-02'
     desc: >-
       Acosys Consulting is looking to hire a Bilingual Help Desk Analyst-Level 1
-      and 2 for its client. 
+      and 2 for its client.
 
 
       **Key Responsibilities:**
@@ -180,12 +180,12 @@ jobs:
   - date: '2018-06-05'
     desc: >-
       Acosys is seeking the services of a Database Analyst on behalf of a
-      Client. 
+      Client.
 
 
       The Client’s Business intelligence (BI) solutions are used to support
       community, administrative and health program delivery activities and
-      decision making processes. 
+      decision making processes.
 
 
       The tools provide pharmacists, community medicine physicians,
@@ -207,7 +207,7 @@ jobs:
       intelligence (BI) solutions to be used to support community,
       administrative and health program delivery activities and decision making
       processes. The Web Developer will be responsible for providing the
-      following services: 
+      following services:
 
 
       * Develop and prepare diagrammatic plans for web based service delivery
@@ -295,7 +295,7 @@ jobs:
       intelligence (BI) solutions to be used to support community,
       administrative and health program delivery activities and decision making
       processes. The Web Developer will be responsible for providing the
-      following services: 
+      following services:
 
 
       * Develop and prepare diagrammatic plans for web based service delivery
@@ -374,7 +374,7 @@ jobs:
   - date: '2018-05-15'
     desc: >-
       Acosys Consulting is currently looking for an Organizational Design and
-      Classification Consultant to perform the following tasks: 
+      Classification Consultant to perform the following tasks:
 
 
       * Reviewing current work descriptions, making revisions and recommending
@@ -437,8 +437,8 @@ jobs:
     location: Mississauga
     title: Agile Delivery Manager
 layout: careers
-title: Carrières
-permalink: /careers
+title: Emplois
+permalink: /emplois
 description: >-
   Prendre soin de nos gens signifie prendre soin de nos clients. En tant que
   spécialiste en solutions d'affaires et gestion de talent, nous recherchons à
