@@ -1,42 +1,35 @@
 ---
-title: Business Solutions
+title: Solutions d'affaires
 layout: page
 permalink: /services/business-solutions
-description: 'Effective management demands continuous improvement, especially in today’s business world, where
-change is constant. You may need unique expertise, and an impartial opinion: that’s what we’re here for.'
+description: >-
+  La gestion efficace requiert une amélioration continue spécialement
+  aujourd’hui dans le monde des d’affaires où le changement est la norme. Aucun
+  gestionnaire n’est une île. Que vous ayez besoin de ressources additionnelles,
+  d’une expertise unique ou d’une opinion impartiale, nous pouvons vous aider.
 cover_image: /img/cover2.jpg
 ---
-**Hit your Targets.**
-Effective management demands continuous improvement, especially in today’s business world, where
-change is constant. You may need unique expertise, and an impartial opinion: that’s what we’re here
-for. Acosys can effectively develop and manage key business drivers to ensure you’re hitting your
-targets and growing your business.
+**Réaliser vos projets.**
+La gestion efficace requiert une amélioration continue spécialement aujourd’hui dans le monde des d’affaires où le changement est la norme. Aucun gestionnaire n’est une île. Que vous ayez besoin de ressources additionnelles, d’une expertise unique ou d’une opinion impartiale, nous pouvons vous aider. Acosys peut développer et gérer de façon efficace les leviers d’affaires clés afin d’atteindre vos objectifs et croître votre entreprise. 
 
-**Our services:**
+**Nos services:**
 
-### Business Analysis
+### **Analyse d'affaires**
 
-Whether the project is a new system development or an update to an existing system, our team can help
-you improve your business functions and activities to reduce costs and improve your service efficiency.
+Que votre projet soit un développement pour un nouveau système ou une mise à jour d’un système existant, notre équipe peut améliorer les fonctions et les activités de votre entreprise afin de réduire vos coûts et améliorer l’efficacité de vos services.
 
-### Project Management
+### Gestion de projet
 
-We’ll ensure that every risk is managed, that delivery is transparent, and that every aspect of your
-project is within scope, quality, time, and cost constraints.
+Nous nous assurerons que chaque risque est géré, que la livraison est transparente et que chaque aspect de votre projet est dans la portée, qualité, temps et selon votre budget.
 
-### Strategic and Operational Planning
+### Planification stratégique et opérationnelle
 
-Even once you have articulated a vision, a strategic plan, and a business plan, you may assistance in
-implementing, re-aligning, and re-evaluating it at key milestones.
+Lorsque vous avez une vision, un plan stratégique et un plan d’affaires, nous pouvons vous aider à le mettre en place, le réaligner et même à le réévaluer lors des étapes importantes.
 
-### Business Development
+### Développement d’affaires
 
-Defining and refining intelligent business objectives. Performing market research, analysis, and
-outreach, even into hard-to-reach markets. We can identify for you who to pursue.
+Définir et affiner vos objectifs d’affaires intelligents. Nous pouvons faire recherche de marché, analyse et atteindre les marchés difficiles à rejoindre. Nous pouvons identifier pour vous quelles opportunités  poursuivre.
 
-### Indigenous Relations
+### Relations avec les autochtones
 
-You want to do business with the Indigenous community, but you need help making the right
-connections. You want to make your workforce more aware of Indigenous cultures, but you don’t know
-where to begin. Acosys has assisted many clients achieve success in these areas, and we can do the
-same for you.
+Vous voulez faire des affaires avec les communautés autochtones et avez besoin de faire les bonnes rencontres d’affaires. Vous voulez augmenter la sensibilisation aux cultures autochtones de votre main-d’œuvre mais vous ne savez par où commencer. Acosys a accompagné plusieurs clients à entreprendre cette démarche avec succès et nous pouvons vous aider à identifier des rencontres d’affaires bénéfiques pour votre entreprise ou créer un atelier pour répondre aux besoins particuliers de votre entreprise.
