@@ -1,11 +1,11 @@
 ---
-title: Internships
+title: Stages en entreprise
 layout: page
 permalink: /stages
 description: >-
-  Training, mentoring and employment. Acosys is committed to providing these
-  things to all Indigenous people who have a desire to work in the field of
-  business consulting.
+  Acosys est dévoué à l’avancement des talents des professionnels autochtones
+  dans les secteurs de la technologie de l’information et des ressources
+  humaines.
 cover_image: /img/cover3.jpg
 ---
 ### Formation, mentorat et employabilité
