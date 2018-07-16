@@ -1,5 +1,5 @@
 ---
-title: Social Impact
+title: Impact social
 layout: page
 permalink: /stages/impact-social
 description: >-
