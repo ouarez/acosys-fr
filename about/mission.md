@@ -11,7 +11,13 @@ description: >-
 cover_image: /img/cover.jpg
 brand:
   image: /img/acosys-brand.png
-  text: "Quatre flèches formant un losange\_: dans plusieurs cultures autochtones ceci symbolise les quatre points cardinaux soient le Nord, le Sud, l’Est et l’Ouest. Les carrés en bleu foncé prenant la forme d’un tipi représentent le lien héréditaire –en termes d’affaires\_: le travail en équipe. Ceci combiné avec notre nom, pris du mot Cri ‘flèche’ vous donne notre idéal d’affaires\_: fournir une direction efficace et en équipe à nos clients."
+  text: >-
+    Quatre flèches formant un losange: dans plusieurs cultures autochtones ceci
+    symbolise les quatre points cardinaux soient le Nord, le Sud, l’Est et
+    l’Ouest. Les carrés en bleu foncé prenant la forme d’un tipi représentent le
+    lien héréditaire –en termes d’affaires: le travail en équipe. Ceci combiné
+    avec notre nom, pris du mot Cri ‘flèche’ vous donne notre idéal d’affaires:
+    fournir une direction efficace et en équipe à nos clients.
   title: Notre marque
 ---
 ### Notre mission
