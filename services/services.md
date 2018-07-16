@@ -57,7 +57,7 @@ service:
     link: /services/gestion-de-talent
     title: Gestion de talent
 text_2: >-
-  **Des idées innovatrices hors du commun. **
+  **Des idées innovatrices hors du commun.**
 
 
   Nous offrons des solutions d’affaires du début à la fin qui aide nos clients à
