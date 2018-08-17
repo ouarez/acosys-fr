@@ -38,6 +38,16 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278193
     location: 'Montreal, QC'
     title: Analyste en assistance technique bilingue niveau 1 et 2
+  - date: '2018-08-17'
+    desc: >-
+      Acosys requiert les services d’un développeur web pour développer des
+      solutions d’Intelligence d'affaires (BI) pour soutenir la communauté, les
+      activités de prestation de programmes de santé et administratifs  et les
+      processus décisionnels
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278214
+    location: 'Montreal, QC'
+    title: développeur web (Sharepoint)
 layout: careers
 title: Emplois
 permalink: /emplois
