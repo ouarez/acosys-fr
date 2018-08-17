@@ -2,8 +2,8 @@
 jobs:
   - date: '2018-07-24'
     desc: >-
-      Nous cherchons un Analyste sécurité senior pour se joindre à notre équipe
-      à Mississauga
+      Acosys Consulting cherche à embaucher un Adjoint administratif bilingue
+      pour son client.
     link: >-
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11200958
     location: 'Mississauga, ON'
