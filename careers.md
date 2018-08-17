@@ -48,6 +48,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278214
     location: 'Montreal, QC'
     title: développeur web (Sharepoint)
+  - date: '2018-08-17'
+    desc: >-
+      Acosys Consulting cherche à embaucher un Rédacteur technique pour son
+      client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278247
+    location: 'Mississauga, ON'
+    title: Rédacteur technique
 layout: careers
 title: Emplois
 permalink: /emplois
