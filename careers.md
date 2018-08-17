@@ -30,6 +30,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278160
     location: 'Mississauga, ON'
     title: Analyste en assistance technique bilingue niveau 1 et 2
+  - date: '2018-08-17'
+    desc: >-
+      Acosys Consulting cherche à embaucher un Analyste en assistance technique
+      bilingue niveau 1 et 2 pour son client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11278193
+    location: 'Montreal, QC'
+    title: Analyste en assistance technique bilingue niveau 1 et 2
 layout: careers
 title: Emplois
 permalink: /emplois
