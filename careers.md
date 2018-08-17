@@ -16,6 +16,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11200955
     location: 'Mississauga, ON'
     title: Adjoint administratif bilingue
+  - date: '2018-07-24'
+    desc: >-
+      Préparer des propositions en déterminant la notion ; rassemblement et mise
+      en forme des informations ; brouillons d’écriture ; obtenir l’approbation.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11200823
+    location: 'Mississauga, ON'
+    title: Rédacteur d'offres
 layout: careers
 title: Emplois
 permalink: /emplois
