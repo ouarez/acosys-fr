@@ -24,7 +24,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11200823
     location: 'Mississauga, ON'
     title: Rédacteur d'offres
-  - date: '2018-08-17'
+  - date: '2018-05-16'
+    desc: Analyste en assistance technique bilingue niveau 1 et 2
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=10968073
+    location: 'Mississauga, ON'
+    title: Analyste en assistance technique bilingue niveau 1 et 2
 layout: careers
 title: Emplois
 permalink: /emplois
