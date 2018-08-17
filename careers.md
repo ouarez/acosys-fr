@@ -24,6 +24,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11200823
     location: 'Mississauga, ON'
     title: Rédacteur d'offres
+  - date: '2018-08-17'
 layout: careers
 title: Emplois
 permalink: /emplois
