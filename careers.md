@@ -436,6 +436,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11121815
     location: Mississauga
     title: Agile Delivery Manager
+  - date: '2018-07-24'
+    desc: >-
+      Nous cherchons un Analyste sécurité senior pour se joindre à notre équipe
+      à Mississauga
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11200958
+    location: 'Mississauga, ON'
+    title: Analyste sécurité senior
 layout: careers
 title: Emplois
 permalink: /emplois
