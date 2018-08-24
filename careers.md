@@ -72,6 +72,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11297093
     location: Mississauga
     title: Planificateur de continuité des opérations et de reprise après sinistre
+  - date: '2018-08-24'
 layout: careers
 title: Emplois
 permalink: /emplois
