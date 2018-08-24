@@ -73,6 +73,14 @@ jobs:
     location: Mississauga
     title: Planificateur de continuité des opérations et de reprise après sinistre
   - date: '2018-08-24'
+    desc: >-
+      Acosys Consulting cherche à embaucher un Spécialiste automatisation de
+      l'assurance qualité pour son client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11297117
+    location: 'Mississauga, ON'
+    title: Spécialiste automatisation de l'assurance qualité
+  - date: '2018-08-24'
 layout: careers
 title: Emplois
 permalink: /emplois
