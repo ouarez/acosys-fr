@@ -30,10 +30,10 @@ Notre équipe de gestion de talent répond à vos besoins en ressources humaines
 
 Nous offrons des services tels que le développement, la coordination de la formation en passant par la présentation, l’évaluation et la comparaison (benchmarking).
 
-### Relations avec les employés
+### Développement des politiques de travail
 
 Assurez-vous que vos politiques de personnel se conforment à la législation provinciale et fédérale. Nous pouvons vous aider avec vos politiques comme celle sur le harcèlement, l’embauche des contractuels, des lignes directrices et l’intégration des employés et plus encore.
 
-### Employee Relations
+###  Relations avec les employés
 
 Le moral de l’équipe affecte la productivité. Nous offrons une gamme de services, incluant les entrevues de départ et de satisfaction, coaching pour les gestionnaires et la résolution de conflit.
