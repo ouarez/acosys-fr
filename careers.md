@@ -80,7 +80,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11297117
     location: 'Mississauga, ON'
     title: Spécialiste automatisation de l'assurance qualité
-  - date: '2018-08-24'
 layout: careers
 title: Emplois
 permalink: /emplois
