@@ -80,6 +80,16 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11297117
     location: 'Mississauga, ON'
     title: Spécialiste automatisation de l'assurance qualité
+  - date: '2018-08-27'
+    desc: >-
+      Acosys Consulting cherche à embaucher un Expert-conseil en conception de
+      la classification et en conception organisationnelle pour son client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11300831
+    location: 'Mississauga, ON'
+    title: >-
+      Expert-conseil en conception de la classification et en conception
+      organisationnelle
 layout: careers
 title: Emplois
 permalink: /emplois
