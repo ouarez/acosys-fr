@@ -90,6 +90,14 @@ jobs:
     title: >-
       Expert-conseil en conception de la classification et en conception
       organisationnelle
+  - date: '2018-08-27'
+    desc: >-
+      Acosys Consulting cherche à embaucher un Analyste financier pour son
+      client
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11300822
+    location: 'Mississauga, ON'
+    title: Analyste financier
 layout: careers
 title: Emplois
 permalink: /emplois
