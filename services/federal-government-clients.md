@@ -1,6 +1,7 @@
 ---
 title: Clients du gouvernement fédéral
 layout: page
+translation_url: 'https://acosysconsulting.com/services/federal-government-clients'
 permalink: /services/clients-gouvernement-federal
 description: >-
   Sous la méthode SPTS, nous détenons une Offre à commande et Arrangements en
