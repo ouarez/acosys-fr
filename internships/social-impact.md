@@ -1,6 +1,7 @@
 ---
 title: Impact social
 layout: page
+translation_url: 'https://acosysconsulting.com/internships/social-impact'
 permalink: /stages/impact-social
 description: >-
   Notre programme de stagiaires autochtones (AIP) fonctionne!  Nous avons déjà
