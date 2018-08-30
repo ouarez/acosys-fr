@@ -1,6 +1,7 @@
 ---
 title: Gestion de talent
 layout: page
+translation_url: 'https://acosysconsulting.com/services/talent-management'
 permalink: /services/gestion-de-talent
 description: >-
   Nos services incluent le recrutement, la rétention et des avis conseils sur
