@@ -1,6 +1,7 @@
 ---
 title: Responsabilité sociale
 layout: page
+translation_url: 'https://acosysconsulting.com/about/social-responsibility'
 permalink: /a-propos/responsabilite-sociale
 description: >-
   Acosys est une entreprise à but lucratif mais nous avons une mission sociale
