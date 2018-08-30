@@ -1,6 +1,7 @@
 ---
 title: Stages en entreprise
 layout: page
+translation_url: 'https://acosysconsulting.com/internships'
 permalink: /stages
 description: >-
   Acosys est dévoué à l’avancement des talents des professionnels autochtones
