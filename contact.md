@@ -1,6 +1,7 @@
 ---
 layout: contact
 title: Contact
+translation_url: 'https://acosysconsulting.com/contact'
 permalink: /contact
 description: >-
   Vos questions et commentaires sont importants. Vous pouvez nous joindre par
