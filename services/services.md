@@ -15,7 +15,7 @@ text_1: >-
   ### Clients
 
 
-  Nous sommes un [fournisseur qualifié](/services/clients-gouvernementaux) avec
+  Nous sommes un [fournisseur qualifié](/services/clients-gouvernement-federal) avec
   les méthodes d’achat pour des services professionnels avec le Gouvernement
   fédéral.
 
@@ -83,4 +83,3 @@ text_2: >-
 
   * Technologie et télécommunications
 ---
-
