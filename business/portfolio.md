@@ -1,6 +1,7 @@
 ---
 title: Portfolio
 layout: portfolio
+translation_url: 'https://acosysconsulting.com/business/portfolio'
 permalink: /affaires/portfolio
 description: >-
   Acosys fourni des services conseils appropriés et répondant à nos clients.
