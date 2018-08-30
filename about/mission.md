@@ -1,6 +1,7 @@
 ---
 title: Notre Mission
 layout: mission
+translation_url: 'https://acosysconsulting.com/about/mission'
 permalink: /a-propos/mission
 description: >-
   Guider nos clients en leur offrant des services de consultation
