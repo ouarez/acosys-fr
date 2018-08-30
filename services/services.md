@@ -1,6 +1,7 @@
 ---
 title: Our Services
 layout: services
+translation_url: 'https://acosysconsulting.com/services/'
 permalink: /services/
 description: '  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet iaculis elit. Nam semper ut arcu non placerat. Praesent nibh massa varius.'
 cover_image: /img/cover2.jpg
@@ -82,3 +83,4 @@ text_2: >-
 
   * Technologie et télécommunications
 ---
+
