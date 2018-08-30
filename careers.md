@@ -100,6 +100,7 @@ jobs:
     title: Analyste financier
 layout: careers
 title: Emplois
+translation_url: 'https://acosysconsulting.com/careers'
 permalink: /emplois
 description: >-
   Prendre soin de nos gens signifie prendre soin de nos clients. En tant que
