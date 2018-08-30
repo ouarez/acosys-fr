@@ -1,6 +1,7 @@
 ---
 title: Leadership
 layout: leadership
+translation_url: 'https://acosysconsulting.com/about/leadership'
 permalink: /a-propos/leadership
 description: >-
   David Acco, qui est de descendance Cri, détient un MBA internationale de
@@ -53,3 +54,4 @@ portrait:
     image: /img/julie.jpg
     name: Julie Lepage
 ---
+David Acco, qui est de descendance Cri, détient un MBA internationale de l’Université d’Ottawa et a complété un certificat de deuxième cycle en analyse d’affaires de la Schulich School of Business de l’Université York. Julie Lepage, membre de la première nation Nipissing-Ojibway, est diplômée des programmes de common law et de droit civil de l’Université d’Ottawa.
