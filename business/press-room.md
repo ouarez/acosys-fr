@@ -1,6 +1,7 @@
 ---
 title: Articles de presse
 layout: press-room
+translation_url: 'https://acosysconsulting.com/business/press-room'
 permalink: /affaires/articles-de-presse
 description: >-
   Voici les dernières nouvelles à notre sujet, ainsi que des articles pertinents
