@@ -1,6 +1,7 @@
 ---
 title: Candidats
 layout: page
+translation_url: 'https://acosysconsulting.com/internships/candidates'
 permalink: /stages/candidats
 description: >-
   Les candidats que nous recherchons sont des professionnels recherchant des
