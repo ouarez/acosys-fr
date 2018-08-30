@@ -1,6 +1,7 @@
 ---
 title: Devenir un partenaire
 layout: page
+translation_url: 'https://acosysconsulting.com/internships/become-a-partner'
 permalink: /stages/partenariat
 description: Être un leader dans le développement professionnel des autochtones.
 cover_image: /img/cover3.jpg
