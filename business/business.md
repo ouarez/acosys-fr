@@ -1,6 +1,7 @@
 ---
 title: Modèle d'affaires
 layout: page
+translation_url: 'https://acosysconsulting.com/business/'
 permalink: /affaires/
 description: >-
   Nous jetons des ponts entre le secteur privé, les communautés autochtones et
