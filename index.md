@@ -3,6 +3,7 @@ layout: home
 title: >-
   Acosys - entreprise de consultation autochtone - solutions d’affaires,
   intégration des technologies, gestion de talent.
+translation_url: 'https://acosysconsulting.com/'
 description: >-
   Acosys est une entreprise de consultation autochtone ayant une vision
   stratégique et des idées constructives hors du commun. Nous facilitons les
@@ -82,3 +83,4 @@ box:
     recherchés en TI et en RH.
   title: STAGIAIRES
 ---
+
