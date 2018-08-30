@@ -1,6 +1,7 @@
 ---
 title: Notre compagnie
 layout: about
+translation_url: 'https://acosysconsulting.com/about'
 permalink: /a-propos
 description: >-
   Acosys est une entreprise de consultation autochtone ayant une vision
