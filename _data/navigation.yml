@@ -60,6 +60,8 @@ footer_nav:
     url: /emplois
   - title: Contact
     url: /contact
+  - title: English
+    url: 'https://acosysconsulting.com'
 bottom_nav:
   - title: Privacy Policy
     url: /privacy-policy
