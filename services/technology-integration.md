@@ -1,6 +1,7 @@
 ---
 title: Intégration des TI
 layout: page
+translation_url: 'https://acosysconsulting.com/services/technology-integration'
 permalink: /services/integration-de-ti
 description: >-
   Lorsque vous avez des délais de livraisons serrés, tout dépend de
