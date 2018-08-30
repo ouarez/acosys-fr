@@ -1,6 +1,7 @@
 ---
 title: Solutions d'affaires
 layout: page
+translation_url: 'https://acosysconsulting.com/services/business-solutions'
 permalink: /services/solutions-affaires
 description: >-
   La gestion efficace requiert une amélioration continue spécialement
