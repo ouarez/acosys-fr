@@ -104,14 +104,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11318528
     location: 'Montreal, QC'
     title: Recruteur Technique
-  - date: '2018-09-07'
-    desc: >-
-      Acosys Consulting cherche à embaucher un Concepteur d'applications
-      Informatica pour son client
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11341767
-    location: 'Toronto, ON'
-    title: Concepteur d'applications Informatica
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
