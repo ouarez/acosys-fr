@@ -102,6 +102,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11411072
     location: 'Mississauga, ON'
     title: Spécialiste formation bilingue
+  - date: '2018-09-25'
+    desc: >-
+      Acosys Consulting cherche à embaucher un Analyste en assistance technique
+      bilingue niveau 1 et 2 pour son client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11411093
+    location: 'Mississauga, ON'
+    title: Analyste en assistance technique bilingue niveau 1 et 2
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
