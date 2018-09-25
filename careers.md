@@ -96,6 +96,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11318528
     location: 'Montreal, QC'
     title: Recruteur Technique
+  - date: '2018-09-25'
+    desc: "Acosys Consulting cherche à embaucher un Spécialiste formation bilingue pour son client\r\n\n\r\n\nLe rôle principal de ce poste est de concevoir, développer et livrer un programme de formation bilingue pour les super utilisateurs qui appuient l’implémentation du projet du client. Le titulaire du poste appliquera les principes de formation des adultes et de conception pédagogique pour créer un programme de formation de formateurs qui couvre toutes les fonctions des systèmes d’arbitrage de réclamations des clients. Cette personne dynamique livrera le programme en anglais et en français aux super-utilisateurs externes et internes, en classe et en ligne, tout en assurant la qualité globale."
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11411072
+    location: 'Mississauga, ON'
+    title: Spécialiste formation bilingue
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
