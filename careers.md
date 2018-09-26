@@ -90,12 +90,6 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11300822
     location: 'Mississauga, ON'
     title: Analyste financier
-  - date: '2018-08-31'
-    desc: "\r\n\nAcosys Consulting est une société autochtone de consultation et services professionnels spécialisée  en technologies de l’Information, ressources humaines et développement des politiques autochtones.\r\n\n\r\n\nAcosys Consulting cherche un Recruteur de talent technique et professionnel pour travailler dans nos bureaux de Montréal. Les principales fonctions du candidat sélectionné consisteront à achever le processus complet de recrutement, tant pour nos postes professionnels que techniques."
-    link: >-
-      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11318528
-    location: 'Montreal, QC'
-    title: Recruteur Technique
   - date: '2018-09-25'
     desc: "Acosys Consulting cherche à embaucher un Spécialiste formation bilingue pour son client\r\n\n\r\n\nLe rôle principal de ce poste est de concevoir, développer et livrer un programme de formation bilingue pour les super utilisateurs qui appuient l’implémentation du projet du client. Le titulaire du poste appliquera les principes de formation des adultes et de conception pédagogique pour créer un programme de formation de formateurs qui couvre toutes les fonctions des systèmes d’arbitrage de réclamations des clients. Cette personne dynamique livrera le programme en anglais et en français aux super-utilisateurs externes et internes, en classe et en ligne, tout en assurant la qualité globale."
     link: >-
@@ -110,6 +104,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11411093
     location: 'Mississauga, ON'
     title: Analyste en assistance technique bilingue niveau 1 et 2
+  - date: '2018-09-26'
+    desc: "Acosys est une société autochtone de consultation et services professionnels spécialisée  en technologies de l’Information, ressources humaines et développement des politiques autochtones.\r\n\n\r\n\nAcosys cherche un Recruteur de talent technique et professionnel pour travailler dans nos bureaux de Montréal. Les principales fonctions du candidat sélectionné consisteront à achever le processus complet de recrutement, tant pour nos postes professionnels que techniques."
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11417021
+    location: 'Montreal, QC'
+    title: Recruteur de talent technique et professionnel
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
