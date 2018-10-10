@@ -110,6 +110,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11417021
     location: 'Montreal, QC'
     title: Recruteur de talent technique et professionnel
+  - date: '2018-10-10'
+    desc: >-
+      Acosys Consulting cherche à embaucher un(e) Développeur web frontal pour
+      son client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11467733
+    location: 'Mississauga, ON'
+    title: Développeur web frontal
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
