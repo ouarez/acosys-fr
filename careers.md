@@ -118,6 +118,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11467733
     location: 'Mississauga, ON'
     title: Développeur web frontal
+  - date: '2018-10-16'
+    desc: >-
+      Acosys est actuellement à la recherche d’un Coordinateur de problèmes 
+      pour se joindre au groupe de livraison de l’un de nos clients
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11493203
+    location: 'Toronto, ON'
+    title: Coordinateur de problèmes
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
