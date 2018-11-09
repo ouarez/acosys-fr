@@ -126,6 +126,14 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11493203
     location: 'Toronto, ON'
     title: Coordinateur de problèmes
+  - date: '2018-11-09'
+    desc: >-
+      Acosys est actuellement à la recherche d’un Administrateur Wintel pour se
+      joindre au groupe de livraison de l’un de nos clients.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11585000
+    location: 'Montreal, Qc'
+    title: Administrateur WINTEL
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
