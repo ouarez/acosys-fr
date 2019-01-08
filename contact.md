@@ -16,7 +16,8 @@ contact_info: >-
   **Montréal (Bureau chef)**
 
 
-  1194 Rue Stanley\
+  1194 Rue Stanley
+
 
   Montréal, QC H3B 2S7
 
