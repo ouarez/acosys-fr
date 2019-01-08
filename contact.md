@@ -39,7 +39,8 @@ contact_info: >-
   **Heures d'ouverture:**
 
 
-  Lundi au vendredi\
+  Lundi au vendredi
+
 
   de 9h à 17h (Heure de l'Est)
 map_lat: '45.498372'
