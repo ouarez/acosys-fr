@@ -12,20 +12,37 @@ subjects:
   - subject: Emplois
   - subject: Question ou commentaire
   - subject: Autre
-contact_info: |-
-  **Montreal (Bureau chef)**
+contact_info: >-
+  **Montréal (Bureau chef)**
 
-  Suite 591, 100 Boulevard Alexis-Nihon  
-  Saint-Laurent, QC H4M 2P1
+
+  1194 Rue Stanley\
+
+  Montréal, QC H3B 2S7
+
+
+  **Toronto**
+
+
+  350 - 1 First Canadian Place
+
+
+  Toronto Region Board of Trade
+  Tower                                                                                           
+  Toronto, On M5X 1C1
+
 
   <i class="fas fa-phone dark-gray mr2"></i>(514) 744-9433 ext. 118  
 
+
   **Heures d'ouverture:**
 
-  Lundi au vendredi  
+
+  Lundi au vendredi\
+
   de 9h à 17h (Heure de l'Est)
-map_lat: '45.496466'
-map_long: '-73.6772346'
+map_lat: '45.498372'
+map_long: '-73.571775'
 map_zoom: '13'
 ---
 ### Nous joindre
