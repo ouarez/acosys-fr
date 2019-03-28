@@ -28,8 +28,9 @@ contact_info: >-
   350 - 1 First Canadian Place
 
 
-  Toronto Region Board of Trade
-  Tower                                                                                           
+  Toronto Region Board of Trade Tower
+
+
   Toronto, On M5X 1C1
 
 
