@@ -163,6 +163,15 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12406760
     location: 'Mississauga, Ontario'
     title: Assistant(e) en Ressources Humaines  Indigène / Aborigène
+  - date: '2019-06-04'
+    desc: >-
+      Acosys Consulting cherche à engager un conseiller principal en ressources
+      humaines (contrat) pour notre client, de premier plan au Canada dans le
+      secteur de la santé et des avantages sociaux.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12407027
+    location: 'Mississauga, Ontario'
+    title: Conseiller Principal en Ressources Humaines (contrat)
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
