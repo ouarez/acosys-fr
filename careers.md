@@ -140,7 +140,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12406178
     location: 'Mississauga, Ontario'
     title: Scrum Master – Intégrateur
-  - date: '2019-06-04'
+  - date: '2019-05-21'
     desc: >-
       Notre client, de premier plan au Canada dans le secteur de la santé et des
       avantages sociaux, recherche activement une personne autochtone énergique
