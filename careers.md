@@ -134,6 +134,12 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=11585000
     location: 'Montreal, Qc'
     title: Administrateur WINTEL
+  - date: '2019-05-31'
+    desc: "Acosys Consulting cherche à engager un Scrum Master pour son principal fournisseur de services de santé et d’avantages sociaux.\r\n\nLe Scrum Master est un praticien expérimenté dans Scrum et d’autres méthodologies Agile qui fournit des informations et des conseils concernant les pratiques de livraison. Le Scrum Master guidera l’équipe sur la façon d’utiliser les méthodes Agile et l’assistera sur l’amélioration continue et l’auto-organisation."
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12406178
+    location: 'Mississauga, Ontario'
+    title: Scrum Master – Intégrateur
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
