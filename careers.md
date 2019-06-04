@@ -153,6 +153,16 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12406484
     location: 'Mississauga, Ontario'
     title: Assistant(e) en Marketing  Indigène / Aborigène
+  - date: '2019-05-21'
+    desc: >-
+      Notre client, de premier plan au Canada dans le secteur de la santé et des
+      avantages sociaux, recherche activement une personne autochtone dynamique
+      et consciencieuse qui se joindra à son équipe des ressources humaines pour
+      obtenir un aperçu précieux de la gestion des talents.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12406760
+    location: 'Mississauga, Ontario'
+    title: Assistant(e) en Ressources Humaines  Indigène / Aborigène
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
