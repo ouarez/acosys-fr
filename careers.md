@@ -140,6 +140,19 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12406178
     location: 'Mississauga, Ontario'
     title: Scrum Master – Intégrateur
+  - date: '2019-06-04'
+    desc: >-
+      Notre client, de premier plan au Canada dans le secteur de la santé et des
+      avantages sociaux, recherche activement une personne autochtone énergique
+      et consciencieuse en tant qu’assistante pour faire partie de son équipe de
+      marketing. À ce poste, vous serez responsable de la coordination et de
+      l'administration de divers projets marketing, notamment de la
+      planification, de l'exécution, du suivi et de la création de rapports sur
+      les indicateurs clés.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12406484
+    location: 'Mississauga, Ontario'
+    title: Assistant(e) en Marketing  Indigène / Aborigène
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
