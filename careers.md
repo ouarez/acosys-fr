@@ -163,7 +163,7 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12406760
     location: 'Mississauga, Ontario'
     title: Assistant(e) en Ressources Humaines  Indigène / Aborigène
-  - date: '2019-06-04'
+  - date: '2019-05-31'
     desc: >-
       Acosys Consulting cherche à engager un conseiller principal en ressources
       humaines (contrat) pour notre client, de premier plan au Canada dans le
@@ -172,6 +172,15 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12407027
     location: 'Mississauga, Ontario'
     title: Conseiller Principal en Ressources Humaines (contrat)
+  - date: '2019-03-31'
+    desc: >-
+      Notre client Public recherche un Analyste d'affaires pour combler un poste
+      contractuel. Notre client requiert les services d’un analyste d'affaires
+      pour soutenir ses projets.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12530063
+    location: 'Ottawa, Ontario'
+    title: Analyste d'affaires (Sénior)
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
