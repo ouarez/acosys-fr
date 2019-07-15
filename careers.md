@@ -203,6 +203,17 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12548119
     location: 'Ottawa, Ontario'
     title: Spécialiste en continuité des opérations/plan de secours (Sénior)
+  - date: '2019-05-01'
+    desc: >-
+      Notre client public cherche activement  un Conseiller en réorganisation
+      (Niveau 3) pour combler un poste contractuel. Le client a besoin des
+      services d’un Conseiller en réorganisation (Niveau 3) pour documenter des
+      processus d’affaires d’état futurs et actuels à l’appui de grands projets
+      tels qu' identifiés dans l'Autorisation de tâches.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12548188
+    location: 'Ottawa, Ontario'
+    title: Conseiller en Réorganisation (Niveau 3)
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
