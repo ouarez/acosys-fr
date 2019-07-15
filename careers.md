@@ -181,6 +181,17 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12530063
     location: 'Ottawa, Ontario'
     title: Analyste d'affaires (Sénior)
+  - date: '2019-05-01'
+    desc: >-
+      Notre client Public recherche un Architecte d’entreprise (niveau 3) pour
+      combler un poste contractuel. Le client requiert les services d’un
+      Architecte d’entreprise (niveau 3) afin de documenter l’architecture
+      d’entreprise qui va soutenir les grands projets du client tels
+      qu'identifiés dans chacune des autorisations de tâches.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12548071
+    location: 'Ottawa, Ontario'
+    title: Architecte D'Entreprises (Sénior)
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
