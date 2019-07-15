@@ -192,6 +192,17 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12548071
     location: 'Ottawa, Ontario'
     title: Architecte D'Entreprises (Sénior)
+  - date: '2019-05-01'
+    desc: >-
+      Notre client Public cherche activement un Spécialiste en continuité des
+      opérations/plan de secours (niveau 3) pour combler un poste contractuel.
+      Notre client requiert les services d’un Spécialiste en continuité des
+      opérations/plan de secours (niveau 3) pour appuyer les grands projets
+      clients tels qu'identifiés dans l'Autorisation de tâches
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12548119
+    location: 'Ottawa, Ontario'
+    title: Spécialiste en continuité des opérations/plan de secours (Sénior)
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
