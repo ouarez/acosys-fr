@@ -214,6 +214,29 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12548188
     location: 'Ottawa, Ontario'
     title: Conseiller en Réorganisation (Niveau 3)
+  - date: '2019-05-01'
+    desc: >-
+      Notre client du secteur public cherche à embaucher un Gestionnaire de
+      projet (niveau 3) pour combler un poste contractuel. Le client nécessite
+      les services d’un Gestionnaire de projet (niveau 3) pour diriger la mise
+      en œuvre d’une variété de projets majeurs dans toutes les succursales
+      respectives du client et pour appuyer les équipes de projet internes.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12627577
+    location: 'Ottawa, Ontario'
+    title: Gestionnaire de projet (Sénior)
+  - date: '2019-05-01'
+    desc: >-
+      Notre client du secteur public cherche à embaucher un Directeur de projet
+      (niveau 3) pour combler un poste contractuel. Le client a besoin des
+      services d’un Directeur de projet (niveau 3) pour soutenir les projets
+      client et les équipes de projet. Le Directeur de projet (niveau 3) doit
+      fournir des conseils globaux sur toutes les questions associées au projet
+      spécifique identifié dans l'autorisation des tâches.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12627586
+    location: 'Ottawa, Ontario'
+    title: Directeur de projet (Sénior)
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
