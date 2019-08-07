@@ -237,6 +237,50 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12627586
     location: 'Ottawa, Ontario'
     title: Directeur de projet (Sénior)
+  - date: '2019-05-01'
+    desc: >-
+      Notre client du secteur public cherche un Architecte de transformation des
+      affaires - Niveau 3 pour combler un poste contractuel. Le Client a besoin
+      des services d’un Architecte de transformation des affaires (niveau 3)
+      pour fournir le leadership et le soutien dans le développement de
+      conception et d’architecture de transformation des affaires liés aux
+      processus d’affaires affectés par les projets décrits dans l’Autorisations
+      de tâches.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12627586
+    location: 'Ottawa, Ontario'
+    title: Architecte de transformation des affaires (Sénior)
+  - date: '2019-06-01'
+    desc: >-
+      Notre client du secteur public recherche un Conseiller en gestion du
+      changement (niveau 3) pour combler un poste contractuel. Le client
+      requiert les services d'un Conseiller en gestion du changement (niveau 3)
+      pour soutenir les projets clients. La mission se focalise sur l’aspect
+      humain du changement et la création structurée d’une stratégie de mise en
+      œuvre de gestion du changement
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12627616
+    location: 'Ottawa, Ontario'
+    title: Conseiller en Gestion du Changement (Sénior)
+  - date: '2019-05-01'
+    desc: >-
+      Acosys Consulting cherche à embaucher un Ingénieur DevOps pour son client
+      fournisseur leader en santé et avantages sociaux.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12627640
+    location: 'Ottawa, Ontario'
+    title: Ingénieur DevOps
+  - date: '2019-06-01'
+    desc: >-
+      Acosys Consulting cherche à embaucher un Développeur Java intermédiaire
+      pour son client. En tant que Développeur Java vous travaillerez en étroite
+      collaboration avec l’entreprise pour définir la meilleure façon de relever
+      les défis commerciaux auxquels font face nos clients et nos opérations
+      internes.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12627655
+    location: 'Ottawa, Ontario'
+    title: Développeur Java
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
