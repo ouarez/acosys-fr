@@ -281,6 +281,51 @@ jobs:
       https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12627655
     location: 'Ottawa, Ontario'
     title: Développeur Java
+  - date: '2019-06-01'
+    desc: >-
+      Notre client du secteur public est à la recherche d'un Planificateur de
+      projet (niveau 3) pour combler un poste contractuel. Le client nécessite
+      les services de Planificateurs de projet (niveau 3) pour soutenir des
+      projets d’EDSC.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12675808
+    location: 'Ottawa, Ontario'
+    title: Planificateur de Projet (Sénior)
+  - date: '2019-06-01'
+    desc: >-
+      Notre client du secteur public cherche à embaucher un Spécialiste en
+      gestion des risques (niveau 3) pour remplir un poste contractuel. Le
+      client nécessite les services d’un Spécialiste en gestion des risques
+      (niveau 3) pour soutenir des projets client.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12675838
+    location: 'Ottawa, Ontario'
+    title: Spécialiste en Gestion des Risques (Sénior)
+  - date: '2019-06-01'
+    desc: >-
+      Acosys est actuellement à la recherche d’un Développeur AX Senior pour se
+      joindre à son client, un des principaux fournisseurs de services de
+      Prestations d'assurance et gestion de la santé. La personne choisie
+      travaillera avec les entreprises et les équipes IS à coder et à soutenir
+      des personnalisations complexes à notre système Dynamics AX 2012
+      nouvellement mis en place.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12675838
+    location: 'Mississauga, Ontario'
+    title: 'Développeur Sénior '
+  - date: '2019-06-01'
+    desc: >-
+      Acosys Consulting cherche à embaucher un Développeur Full Stack Sénior
+      pour son client chef de file en services santé et prestations.
+
+
+      La personne retenue travaillera en étroite collaboration avec l’entreprise
+      pour définir la meilleure façon de relever les défis commerciaux auxquels
+      font face nos clients et nos opérations internes.
+    link: >-
+      https://acosysconsulting.catsone.com/careers/index.php?m=portal&a=details&jobOrderID=12675895
+    location: 'Mississauga, Ontario'
+    title: Développeur Full Stack Sénior
 layout: careers
 title: Emplois
 translation_url: 'https://acosysconsulting.com/careers'
