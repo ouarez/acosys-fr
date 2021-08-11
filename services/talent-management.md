@@ -19,6 +19,14 @@ Cette attention au détail provient de notre formation en tant que conseiller en
 
 Nos services incluent:
 
+### Relations avec les employés
+
+Acosys Consulting Services fournit des conseils d’experts et de l’aide aux employeurs sur tous les aspects des questions de ressources humaines et de relations de travail, en mettant l’accent sur la coopération et l’équité.  
+
+Acosys agit à titre de tiers impartial pour ses clients afin de prévenir ou résoudre des situations problématiques complexes: la méthodologie employée par Acosys respecte la confidentialité et assure l’équité des procédures, tout en respectant les principes éthiques les plus élevés.  Acosys peut déterminer l’admissibilité des plaintes, faire des recommandations afin de prévenir de futurs conflits au travail, recommander les mesures appropriées pour assurer un milieu de travail sain, procéder à l’enquête en lien avec le harcèlement au travail, et offrir des solutions telles que la formation, la médiation, la facilitation, et la conciliation. 
+
+Acosys offre une vaste gamme de services, de mesures, et d’initiatives, pour aider les employeurs à créer et à maintenir un milieu de travail sain. Notre structure collaborative et multidisciplinaire nous permet de constituer des équipes personnalisées afin d’offrir à nos clients un avis professionnel ainsi que des conseils sur mesure, propres à leur situation.
+
 ### Gestion de talent autochtone
 
 La réalité est que nos ressources autochtones ont des besoins uniques en milieu de travail et les attirer requiert des stratégies uniques. Que vous soyez ou non une entreprise autochtone ou non-autochtone, Acosys peut gérer vos talents plus efficacement et augmenter votre taux de rétention. Nous avons plusieurs expériences positives avec des grandes entreprises où nous avons développé des stratégies de recrutement et de rétention de talent visant spécifiquement les professionnels autochtones.
@@ -35,6 +43,4 @@ Nous offrons des services tels que le développement, la coordination de la form
 
 Assurez-vous que vos politiques de personnel se conforment à la législation provinciale et fédérale. Nous pouvons vous aider avec vos politiques comme celle sur le harcèlement, l’embauche des contractuels, des lignes directrices et l’intégration des employés et plus encore.
 
-###  Relations avec les employés
-
-Le moral de l’équipe affecte la productivité. Nous offrons une gamme de services, incluant les entrevues de départ et de satisfaction, coaching pour les gestionnaires et la résolution de conflit.
+###
